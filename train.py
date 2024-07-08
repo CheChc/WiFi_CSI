@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from torchvision import transforms
-from torch.utils.data import DataLoader, Dataset, random_split
+from torch.utils.data import DataLoader, Dataset
 from PIL import Image
 import matplotlib.pyplot as plt
 import configparser
@@ -110,12 +110,12 @@ optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
 # 训练模型
 def train_model(num_epochs):
-    train_losses = []
-    test_losses = []
     for epoch in range(num_epochs):
         logging.info(f'Starting epoch {epoch + 1}/{num_epochs}')
         model.train()
         running_loss = 0.0
+        correct = 0
+        total = 0
         for i, (images, labels) in enumerate(tqdm(train_loader, desc=f"Epoch {epoch+1}/{num_epochs}")):
             images, labels = images.to(device), labels.to(device)
             outputs = model(images)
@@ -126,64 +126,23 @@ def train_model(num_epochs):
             optimizer.step()
 
             running_loss += loss.item()
+            _, predicted = torch.max(outputs.data, 1)
+            total += labels.size(0)
+            correct += (predicted == labels).sum().item()
+
             if (i + 1) % 10 == 0:
                 log_msg = f'Epoch [{epoch + 1}/{num_epochs}], Step [{i + 1}/{len(train_loader)}], Loss: {loss.item():.4f}'
                 print(log_msg)
                 logging.info(log_msg)
 
         avg_train_loss = running_loss / len(train_loader)
-        train_losses.append(avg_train_loss)
-        logging.info(f'Epoch [{epoch + 1}/{num_epochs}] completed. Avg Train Loss: {avg_train_loss:.4f}')
-
-        model.eval()
-        test_loss = 0.0
-        correct = 0
-        total = 0
-        with torch.no_grad():
-            for images, labels in test_loader:
-                images, labels = images.to(device), labels.to(device)
-                outputs = model(images)
-                loss = criterion(outputs, labels)
-                test_loss += loss.item()
-
-                _, predicted = torch.max(outputs.data, 1)
-                total += labels.size(0)
-                correct += (predicted == labels).sum().item()
-
-        avg_test_loss = test_loss / len(test_loader)
-        test_losses.append(avg_test_loss)
         accuracy = 100 * correct / total
-        logging.info(f'Test Loss: {avg_test_loss:.4f}, Test Accuracy: {accuracy:.2f}%')
+        logging.info(f'Epoch [{epoch + 1}/{num_epochs}] completed. Avg Train Loss: {avg_train_loss:.4f}, Accuracy: {accuracy:.2f}%')
 
-    plt.figure()
-    plt.plot(range(1, num_epochs + 1), train_losses, label='Train Loss')
-    plt.plot(range(1, num_epochs + 1), test_losses, label='Test Loss')
-    plt.xlabel('Epoch')
-    plt.ylabel('Loss')
-    plt.legend()
-    plt.savefig('loss_curve.png')
-    plt.show()
+        print(f'Epoch [{epoch + 1}/{num_epochs}] completed. Avg Train Loss: {avg_train_loss:.4f}, Accuracy: {accuracy:.2f}%')
 
     if save_model:
         torch.save(model.state_dict(), model_save_path)
         logging.info(f'Model saved to {model_save_path}')
 
 train_model(num_epochs)
-
-# 测试模型
-def test_model():
-    model.eval()
-    correct = 0
-    total = 0
-    with torch.no_grad():
-        for images, labels in test_loader:
-            images, labels = images.to(device), labels.to(device)
-            outputs = model(images)
-            _, predicted = torch.max(outputs.data, 1)
-            total += labels.size(0)
-            correct += (predicted == labels).sum().item()
-    accuracy = 100 * correct / total
-    print(f'Test Accuracy: {accuracy:.2f}%')
-    logging.info(f'Test Accuracy: {accuracy:.2f}%')
-
-test_model()

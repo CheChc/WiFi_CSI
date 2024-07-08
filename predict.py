@@ -5,12 +5,6 @@ import torch.nn as nn
 from torchvision import transforms
 from PIL import Image
 
-# 读取配置文件
-config = configparser.ConfigParser()
-config.read('config.ini')
-
-model_path = config.get('TRAINING', 'model_name')
-
 # 定义CNN模型
 class CNN(nn.Module):
     def __init__(self, num_classes=8):
@@ -27,40 +21,47 @@ class CNN(nn.Module):
             nn.MaxPool2d(2))
         self.fc1 = nn.Linear(64 * 15 * 15, 512)
         self.fc2 = nn.Linear(512, num_classes)
+        self.dropout = nn.Dropout(0.5)
 
     def forward(self, x):
         out = self.layer1(x)
         out = self.layer2(out)
         out = out.view(out.size(0), -1)
-        out = self.fc1(out)
+        out = self.dropout(self.fc1(out))
         out = self.fc2(out)
         return out
 
-# 加载模型
-model = CNN(num_classes=8)
-model.load_state_dict(torch.load(model_path))
-model.eval()
+# 加载配置文件
+config = configparser.ConfigParser()
+config.read('config.ini')
 
-# 数据预处理
+# 获取配置参数
+model_path = config['DEFAULT']['ModelPath']
+image_path = config['DEFAULT']['ImagePath']
+labels = config['DEFAULT']['Labels'].split(',')
+
+# 图像预处理
 transform = transforms.Compose([
-    transforms.Resize((64, 64)),  # 调整图像大小
-    transforms.ToTensor(),  # 转换为Tensor
-    transforms.Normalize((0.5,), (0.5,))  # 归一化
+    transforms.Resize((64, 64)),
+    transforms.ToTensor(),
+    transforms.Normalize((0.5,), (0.5,))
 ])
 
-# 预测函数
-def predict_image(image_path):
-    image = Image.open(image_path).convert('RGB')
-    image = transform(image).unsqueeze(0)  # 添加批次维度
-    with torch.no_grad():
-        outputs = model(image)
-        _, predicted = torch.max(outputs.data, 1)
-        class_idx = predicted.item()
-    return class_idx
+# 加载模型
+model = CNN(num_classes=len(labels))
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+model.load_state_dict(torch.load(model_path, map_location=device))
+model.to(device)
+model.eval()
 
-# 测试
-if __name__ == '__main__':
-    image_path = 'path_to_your_image.png'  # 替换为你要预测的图像路径
-    class_idx = predict_image(image_path)
-    class_names = ['clap', 'kick', 'pickup', 'run', 'sitdown', 'standup', 'walk', 'wavehand']
-    print(f'Predicted class: {class_names[class_idx]}')
+# 预测函数
+def predict(image_path):
+    image = Image.open(image_path).convert('RGB')
+    image = transform(image).unsqueeze(0).to(device)
+    output = model(image)
+    _, predicted = torch.max(output.data, 1)
+    return labels[predicted.item()]
+
+# 进行预测
+predicted_class = predict(image_path)
+print(f'预测类别是: {predicted_class}')
