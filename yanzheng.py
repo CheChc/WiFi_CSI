@@ -21,7 +21,7 @@ transform = transforms.Compose([
 ])
 
 # 加载模型
-device = torch.device('mps' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 num_classes = int(config['DEFAULT']['num_classes'])
 model_path = config['DEFAULT']['model_path']
 

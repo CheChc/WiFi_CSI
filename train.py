@@ -27,6 +27,7 @@ num_epochs = config.getint('TRAINING', 'num_epochs')
 learning_rate = config.getfloat('TRAINING', 'learning_rate')
 batch_size = config.getint('TRAINING', 'batch_size')
 max_files_per_class = config.getint('DATA', 'max_files_per_class')
+log_step = config.getint('TRAINING', 'log_step')
 
 # 检查GPU是否可用
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -90,13 +91,25 @@ class CNN(nn.Module):
             nn.BatchNorm2d(64),
             nn.ReLU(),
             nn.MaxPool2d(2))
-        self.fc1 = nn.Linear(64 * 15 * 15, 512)
+        self.layer3 = nn.Sequential(
+            nn.Conv2d(64, 128, kernel_size=3, padding=1),
+            nn.BatchNorm2d(128),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2))
+        self.layer4 = nn.Sequential(
+            nn.Conv2d(128, 256, kernel_size=3, padding=1),
+            nn.BatchNorm2d(256),
+            nn.ReLU(),
+            nn.MaxPool2d(2))
+        self.fc1 = nn.Linear(256 * 3 * 3, 512)
         self.fc2 = nn.Linear(512, num_classes)
         self.dropout = nn.Dropout(0.5)
 
     def forward(self, x):
         out = self.layer1(x)
         out = self.layer2(out)
+        out = self.layer3(out)
+        out = self.layer4(out)
         out = out.view(out.size(0), -1)
         out = self.dropout(self.fc1(out))
         out = self.fc2(out)
@@ -110,6 +123,7 @@ optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
 # 训练模型
 def train_model(num_epochs):
+    train_losses = []  # 用于存储每个epoch的平均损失
     for epoch in range(num_epochs):
         logging.info(f'Starting epoch {epoch + 1}/{num_epochs}')
         model.train()
@@ -130,12 +144,13 @@ def train_model(num_epochs):
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
-            if (i + 1) % 10 == 0:
+            if (i + 1) % log_step == 0:
                 log_msg = f'Epoch [{epoch + 1}/{num_epochs}], Step [{i + 1}/{len(train_loader)}], Loss: {loss.item():.4f}'
                 print(log_msg)
                 logging.info(log_msg)
 
         avg_train_loss = running_loss / len(train_loader)
+        train_losses.append(avg_train_loss)  # 记录平均损失
         accuracy = 100 * correct / total
         logging.info(f'Epoch [{epoch + 1}/{num_epochs}] completed. Avg Train Loss: {avg_train_loss:.4f}, Accuracy: {accuracy:.2f}%')
 
@@ -144,5 +159,15 @@ def train_model(num_epochs):
     if save_model:
         torch.save(model.state_dict(), model_save_path)
         logging.info(f'Model saved to {model_save_path}')
+
+    # 绘制损失曲线
+    plt.figure()
+    plt.plot(range(1, num_epochs + 1), train_losses, label='Training Loss')
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.title('Training Loss Curve')
+    plt.legend()
+    plt.savefig('loss_curve.png')
+    plt.show()
 
 train_model(num_epochs)
