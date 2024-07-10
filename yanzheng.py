@@ -40,12 +40,13 @@ class CNN(nn.Module):
             nn.MaxPool2d(2))
         self.fc1 = nn.Linear(64 * 15 * 15, 512)
         self.fc2 = nn.Linear(512, num_classes)
+        self.dropout = nn.Dropout(0.5)
 
     def forward(self, x):
         out = self.layer1(x)
         out = self.layer2(out)
         out = out.view(out.size(0), -1)
-        out = self.fc1(out)
+        out = self.dropout(self.fc1(out))
         out = self.fc2(out)
         return out
 
