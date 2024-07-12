@@ -29,7 +29,7 @@ batch_size = config.getint('TRAINING', 'batch_size')
 max_files_per_class = config.getint('DATA', 'max_files_per_class')
 
 # 检查GPU是否可用
-device = torch.device('mps' if  torch.backends.mps.is_available() else 'cpu')
+device = torch.device('mps' if torch.backends.mps.is_available() else 'cpu')
 print(f"Using device: {device}")
 
 # 数据预处理

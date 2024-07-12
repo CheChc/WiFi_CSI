@@ -1,0 +1,1801 @@
+2024-07-10 00:46:15,209 - Starting epoch 1/300
+2024-07-10 00:46:19,198 - Epoch [1/300], Step [10/38], Loss: 18.5786
+2024-07-10 00:46:23,003 - Epoch [1/300], Step [20/38], Loss: 8.6986
+2024-07-10 00:46:27,091 - Epoch [1/300], Step [30/38], Loss: 5.7711
+2024-07-10 00:46:30,143 - Epoch [1/300] completed. Avg Train Loss: 12.2391, Accuracy: 26.83%
+2024-07-10 00:46:33,319 - Epoch [1/300] completed. Avg Test Loss: 6.9597, Test Accuracy: 9.00%
+2024-07-10 00:46:33,319 - Starting epoch 2/300
+2024-07-10 00:46:37,825 - Epoch [2/300], Step [10/38], Loss: 4.2804
+2024-07-10 00:46:42,223 - Epoch [2/300], Step [20/38], Loss: 3.7347
+2024-07-10 00:46:46,952 - Epoch [2/300], Step [30/38], Loss: 3.3451
+2024-07-10 00:46:50,316 - Epoch [2/300] completed. Avg Train Loss: 3.2581, Accuracy: 41.75%
+2024-07-10 00:46:53,714 - Epoch [2/300] completed. Avg Test Loss: 6.3991, Test Accuracy: 13.40%
+2024-07-10 00:46:53,714 - Starting epoch 3/300
+2024-07-10 00:46:58,257 - Epoch [3/300], Step [10/38], Loss: 2.0456
+2024-07-10 00:47:02,801 - Epoch [3/300], Step [20/38], Loss: 2.2103
+2024-07-10 00:47:07,232 - Epoch [3/300], Step [30/38], Loss: 2.7382
+2024-07-10 00:47:10,678 - Epoch [3/300] completed. Avg Train Loss: 2.2694, Accuracy: 48.62%
+2024-07-10 00:47:14,009 - Epoch [3/300] completed. Avg Test Loss: 6.6503, Test Accuracy: 22.40%
+2024-07-10 00:47:14,009 - Starting epoch 4/300
+2024-07-10 00:47:18,059 - Epoch [4/300], Step [10/38], Loss: 1.4458
+2024-07-10 00:47:22,514 - Epoch [4/300], Step [20/38], Loss: 1.4150
+2024-07-10 00:47:26,639 - Epoch [4/300], Step [30/38], Loss: 1.5699
+2024-07-10 00:47:30,091 - Epoch [4/300] completed. Avg Train Loss: 1.5716, Accuracy: 58.54%
+2024-07-10 00:47:33,125 - Epoch [4/300] completed. Avg Test Loss: 5.8997, Test Accuracy: 20.60%
+2024-07-10 00:47:33,125 - Starting epoch 5/300
+2024-07-10 00:47:37,671 - Epoch [5/300], Step [10/38], Loss: 1.1699
+2024-07-10 00:47:42,035 - Epoch [5/300], Step [20/38], Loss: 1.5909
+2024-07-10 00:47:46,564 - Epoch [5/300], Step [30/38], Loss: 1.3615
+2024-07-10 00:47:49,677 - Epoch [5/300] completed. Avg Train Loss: 1.4626, Accuracy: 59.92%
+2024-07-10 00:47:53,046 - Epoch [5/300] completed. Avg Test Loss: 4.9306, Test Accuracy: 22.60%
+2024-07-10 00:47:53,046 - Starting epoch 6/300
+2024-07-10 00:47:57,705 - Epoch [6/300], Step [10/38], Loss: 1.1192
+2024-07-10 00:48:02,373 - Epoch [6/300], Step [20/38], Loss: 1.7817
+2024-07-10 00:48:07,016 - Epoch [6/300], Step [30/38], Loss: 0.7434
+2024-07-10 00:48:10,257 - Epoch [6/300] completed. Avg Train Loss: 1.3775, Accuracy: 62.71%
+2024-07-10 00:48:13,616 - Epoch [6/300] completed. Avg Test Loss: 4.6340, Test Accuracy: 22.60%
+2024-07-10 00:48:13,616 - Starting epoch 7/300
+2024-07-10 00:48:18,131 - Epoch [7/300], Step [10/38], Loss: 1.0009
+2024-07-10 00:48:22,879 - Epoch [7/300], Step [20/38], Loss: 1.2879
+2024-07-10 00:48:26,998 - Epoch [7/300], Step [30/38], Loss: 1.7056
+2024-07-10 00:48:30,680 - Epoch [7/300] completed. Avg Train Loss: 1.3586, Accuracy: 62.67%
+2024-07-10 00:48:34,053 - Epoch [7/300] completed. Avg Test Loss: 4.6979, Test Accuracy: 20.40%
+2024-07-10 00:48:34,053 - Starting epoch 8/300
+2024-07-10 00:48:38,521 - Epoch [8/300], Step [10/38], Loss: 1.3958
+2024-07-10 00:48:43,070 - Epoch [8/300], Step [20/38], Loss: 0.7352
+2024-07-10 00:48:47,080 - Epoch [8/300], Step [30/38], Loss: 0.5437
+2024-07-10 00:48:50,663 - Epoch [8/300] completed. Avg Train Loss: 0.9253, Accuracy: 71.25%
+2024-07-10 00:48:53,861 - Epoch [8/300] completed. Avg Test Loss: 4.9872, Test Accuracy: 23.80%
+2024-07-10 00:48:53,861 - Starting epoch 9/300
+2024-07-10 00:48:58,428 - Epoch [9/300], Step [10/38], Loss: 0.5109
+2024-07-10 00:49:02,840 - Epoch [9/300], Step [20/38], Loss: 0.7715
+2024-07-10 00:49:07,277 - Epoch [9/300], Step [30/38], Loss: 0.8050
+2024-07-10 00:49:10,427 - Epoch [9/300] completed. Avg Train Loss: 0.7820, Accuracy: 74.04%
+2024-07-10 00:49:13,613 - Epoch [9/300] completed. Avg Test Loss: 4.9534, Test Accuracy: 28.00%
+2024-07-10 00:49:13,613 - Starting epoch 10/300
+2024-07-10 00:49:18,082 - Epoch [10/300], Step [10/38], Loss: 0.9210
+2024-07-10 00:49:22,473 - Epoch [10/300], Step [20/38], Loss: 0.7716
+2024-07-10 00:49:26,593 - Epoch [10/300], Step [30/38], Loss: 1.1335
+2024-07-10 00:49:30,094 - Epoch [10/300] completed. Avg Train Loss: 0.7816, Accuracy: 74.62%
+2024-07-10 00:49:33,394 - Epoch [10/300] completed. Avg Test Loss: 5.0281, Test Accuracy: 21.40%
+2024-07-10 00:49:33,394 - Starting epoch 11/300
+2024-07-10 00:49:37,846 - Epoch [11/300], Step [10/38], Loss: 0.5653
+2024-07-10 00:49:42,464 - Epoch [11/300], Step [20/38], Loss: 0.8292
+2024-07-10 00:49:46,729 - Epoch [11/300], Step [30/38], Loss: 0.4170
+2024-07-10 00:49:50,078 - Epoch [11/300] completed. Avg Train Loss: 0.5868, Accuracy: 80.83%
+2024-07-10 00:49:53,212 - Epoch [11/300] completed. Avg Test Loss: 4.3816, Test Accuracy: 32.00%
+2024-07-10 00:49:53,212 - Starting epoch 12/300
+2024-07-10 00:49:57,436 - Epoch [12/300], Step [10/38], Loss: 0.5765
+2024-07-10 00:50:01,972 - Epoch [12/300], Step [20/38], Loss: 0.7856
+2024-07-10 00:50:06,273 - Epoch [12/300], Step [30/38], Loss: 0.6448
+2024-07-10 00:50:09,259 - Epoch [12/300] completed. Avg Train Loss: 0.5542, Accuracy: 81.42%
+2024-07-10 00:50:12,446 - Epoch [12/300] completed. Avg Test Loss: 4.2637, Test Accuracy: 28.60%
+2024-07-10 00:50:12,446 - Starting epoch 13/300
+2024-07-10 00:50:16,793 - Epoch [13/300], Step [10/38], Loss: 0.3251
+2024-07-10 00:50:21,286 - Epoch [13/300], Step [20/38], Loss: 0.3130
+2024-07-10 00:50:25,661 - Epoch [13/300], Step [30/38], Loss: 0.2888
+2024-07-10 00:50:28,749 - Epoch [13/300] completed. Avg Train Loss: 0.3526, Accuracy: 87.62%
+2024-07-10 00:50:31,967 - Epoch [13/300] completed. Avg Test Loss: 4.9322, Test Accuracy: 29.00%
+2024-07-10 00:50:31,967 - Starting epoch 14/300
+2024-07-10 00:50:36,560 - Epoch [14/300], Step [10/38], Loss: 0.2398
+2024-07-10 00:50:40,829 - Epoch [14/300], Step [20/38], Loss: 0.3440
+2024-07-10 00:50:45,125 - Epoch [14/300], Step [30/38], Loss: 0.2579
+2024-07-10 00:50:48,430 - Epoch [14/300] completed. Avg Train Loss: 0.2392, Accuracy: 91.17%
+2024-07-10 00:50:51,448 - Epoch [14/300] completed. Avg Test Loss: 4.4360, Test Accuracy: 33.80%
+2024-07-10 00:50:51,448 - Starting epoch 15/300
+2024-07-10 00:50:55,626 - Epoch [15/300], Step [10/38], Loss: 0.2397
+2024-07-10 00:50:59,960 - Epoch [15/300], Step [20/38], Loss: 0.2444
+2024-07-10 00:51:04,556 - Epoch [15/300], Step [30/38], Loss: 0.1806
+2024-07-10 00:51:07,602 - Epoch [15/300] completed. Avg Train Loss: 0.2220, Accuracy: 91.67%
+2024-07-10 00:51:10,800 - Epoch [15/300] completed. Avg Test Loss: 4.1563, Test Accuracy: 34.40%
+2024-07-10 00:51:10,800 - Starting epoch 16/300
+2024-07-10 00:51:15,221 - Epoch [16/300], Step [10/38], Loss: 0.2224
+2024-07-10 00:51:19,626 - Epoch [16/300], Step [20/38], Loss: 0.1861
+2024-07-10 00:51:24,441 - Epoch [16/300], Step [30/38], Loss: 0.1304
+2024-07-10 00:51:27,617 - Epoch [16/300] completed. Avg Train Loss: 0.1648, Accuracy: 94.42%
+2024-07-10 00:51:30,870 - Epoch [16/300] completed. Avg Test Loss: 4.4528, Test Accuracy: 33.60%
+2024-07-10 00:51:30,870 - Starting epoch 17/300
+2024-07-10 00:51:35,031 - Epoch [17/300], Step [10/38], Loss: 0.2814
+2024-07-10 00:51:39,443 - Epoch [17/300], Step [20/38], Loss: 0.0839
+2024-07-10 00:51:43,885 - Epoch [17/300], Step [30/38], Loss: 0.1625
+2024-07-10 00:51:47,105 - Epoch [17/300] completed. Avg Train Loss: 0.1405, Accuracy: 94.96%
+2024-07-10 00:51:50,217 - Epoch [17/300] completed. Avg Test Loss: 4.0782, Test Accuracy: 36.20%
+2024-07-10 00:51:50,217 - Starting epoch 18/300
+2024-07-10 00:51:54,579 - Epoch [18/300], Step [10/38], Loss: 0.2265
+2024-07-10 00:51:58,804 - Epoch [18/300], Step [20/38], Loss: 0.0978
+2024-07-10 00:52:03,346 - Epoch [18/300], Step [30/38], Loss: 0.1650
+2024-07-10 00:52:06,486 - Epoch [18/300] completed. Avg Train Loss: 0.1586, Accuracy: 94.25%
+2024-07-10 00:52:09,669 - Epoch [18/300] completed. Avg Test Loss: 5.2361, Test Accuracy: 35.20%
+2024-07-10 00:52:09,670 - Starting epoch 19/300
+2024-07-10 00:52:13,800 - Epoch [19/300], Step [10/38], Loss: 0.1802
+2024-07-10 00:52:18,421 - Epoch [19/300], Step [20/38], Loss: 0.1749
+2024-07-10 00:52:22,403 - Epoch [19/300], Step [30/38], Loss: 0.0645
+2024-07-10 00:52:25,991 - Epoch [19/300] completed. Avg Train Loss: 0.1496, Accuracy: 94.17%
+2024-07-10 00:52:28,858 - Epoch [19/300] completed. Avg Test Loss: 5.4963, Test Accuracy: 34.40%
+2024-07-10 00:52:28,858 - Starting epoch 20/300
+2024-07-10 00:52:33,401 - Epoch [20/300], Step [10/38], Loss: 0.3388
+2024-07-10 00:52:37,731 - Epoch [20/300], Step [20/38], Loss: 0.0698
+2024-07-10 00:52:41,862 - Epoch [20/300], Step [30/38], Loss: 0.2029
+2024-07-10 00:52:45,148 - Epoch [20/300] completed. Avg Train Loss: 0.2050, Accuracy: 92.71%
+2024-07-10 00:52:48,254 - Epoch [20/300] completed. Avg Test Loss: 5.2016, Test Accuracy: 33.20%
+2024-07-10 00:52:48,254 - Starting epoch 21/300
+2024-07-10 00:52:52,357 - Epoch [21/300], Step [10/38], Loss: 0.0736
+2024-07-10 00:52:56,727 - Epoch [21/300], Step [20/38], Loss: 0.0702
+2024-07-10 00:53:00,771 - Epoch [21/300], Step [30/38], Loss: 0.1205
+2024-07-10 00:53:04,030 - Epoch [21/300] completed. Avg Train Loss: 0.1139, Accuracy: 95.83%
+2024-07-10 00:53:07,031 - Epoch [21/300] completed. Avg Test Loss: 4.4201, Test Accuracy: 37.00%
+2024-07-10 00:53:07,032 - Starting epoch 22/300
+2024-07-10 00:53:11,384 - Epoch [22/300], Step [10/38], Loss: 0.1236
+2024-07-10 00:53:15,779 - Epoch [22/300], Step [20/38], Loss: 0.1107
+2024-07-10 00:53:19,915 - Epoch [22/300], Step [30/38], Loss: 0.1500
+2024-07-10 00:53:23,449 - Epoch [22/300] completed. Avg Train Loss: 0.1108, Accuracy: 95.83%
+2024-07-10 00:53:26,479 - Epoch [22/300] completed. Avg Test Loss: 4.3235, Test Accuracy: 38.40%
+2024-07-10 00:53:26,479 - Starting epoch 23/300
+2024-07-10 00:53:30,633 - Epoch [23/300], Step [10/38], Loss: 0.0488
+2024-07-10 00:53:35,253 - Epoch [23/300], Step [20/38], Loss: 0.0134
+2024-07-10 00:53:39,564 - Epoch [23/300], Step [30/38], Loss: 0.1391
+2024-07-10 00:53:42,948 - Epoch [23/300] completed. Avg Train Loss: 0.0718, Accuracy: 97.54%
+2024-07-10 00:53:45,945 - Epoch [23/300] completed. Avg Test Loss: 4.2560, Test Accuracy: 43.40%
+2024-07-10 00:53:45,945 - Starting epoch 24/300
+2024-07-10 00:53:50,554 - Epoch [24/300], Step [10/38], Loss: 0.0665
+2024-07-10 00:53:54,594 - Epoch [24/300], Step [20/38], Loss: 0.0220
+2024-07-10 00:53:58,990 - Epoch [24/300], Step [30/38], Loss: 0.0304
+2024-07-10 00:54:02,393 - Epoch [24/300] completed. Avg Train Loss: 0.0438, Accuracy: 98.46%
+2024-07-10 00:54:05,434 - Epoch [24/300] completed. Avg Test Loss: 4.3923, Test Accuracy: 44.40%
+2024-07-10 00:54:05,434 - Starting epoch 25/300
+2024-07-10 00:54:09,457 - Epoch [25/300], Step [10/38], Loss: 0.0849
+2024-07-10 00:54:13,894 - Epoch [25/300], Step [20/38], Loss: 0.0114
+2024-07-10 00:54:17,871 - Epoch [25/300], Step [30/38], Loss: 0.0199
+2024-07-10 00:54:21,336 - Epoch [25/300] completed. Avg Train Loss: 0.0358, Accuracy: 98.88%
+2024-07-10 00:54:24,345 - Epoch [25/300] completed. Avg Test Loss: 4.2200, Test Accuracy: 41.40%
+2024-07-10 00:54:24,346 - Starting epoch 26/300
+2024-07-10 00:54:28,815 - Epoch [26/300], Step [10/38], Loss: 0.0256
+2024-07-10 00:54:33,106 - Epoch [26/300], Step [20/38], Loss: 0.0177
+2024-07-10 00:54:37,405 - Epoch [26/300], Step [30/38], Loss: 0.0087
+2024-07-10 00:54:40,405 - Epoch [26/300] completed. Avg Train Loss: 0.0334, Accuracy: 99.21%
+2024-07-10 00:54:43,503 - Epoch [26/300] completed. Avg Test Loss: 4.5399, Test Accuracy: 37.20%
+2024-07-10 00:54:43,503 - Starting epoch 27/300
+2024-07-10 00:54:47,593 - Epoch [27/300], Step [10/38], Loss: 0.0167
+2024-07-10 00:54:51,872 - Epoch [27/300], Step [20/38], Loss: 0.0392
+2024-07-10 00:54:56,136 - Epoch [27/300], Step [30/38], Loss: 0.0540
+2024-07-10 00:54:59,240 - Epoch [27/300] completed. Avg Train Loss: 0.0287, Accuracy: 99.00%
+2024-07-10 00:55:02,470 - Epoch [27/300] completed. Avg Test Loss: 4.7697, Test Accuracy: 38.80%
+2024-07-10 00:55:02,470 - Starting epoch 28/300
+2024-07-10 00:55:06,486 - Epoch [28/300], Step [10/38], Loss: 0.0321
+2024-07-10 00:55:11,010 - Epoch [28/300], Step [20/38], Loss: 0.0182
+2024-07-10 00:55:15,281 - Epoch [28/300], Step [30/38], Loss: 0.0389
+2024-07-10 00:55:18,305 - Epoch [28/300] completed. Avg Train Loss: 0.0299, Accuracy: 98.96%
+2024-07-10 00:55:21,546 - Epoch [28/300] completed. Avg Test Loss: 4.7678, Test Accuracy: 41.00%
+2024-07-10 00:55:21,546 - Starting epoch 29/300
+2024-07-10 00:55:25,697 - Epoch [29/300], Step [10/38], Loss: 0.0405
+2024-07-10 00:55:30,313 - Epoch [29/300], Step [20/38], Loss: 0.1457
+2024-07-10 00:55:34,601 - Epoch [29/300], Step [30/38], Loss: 0.0445
+2024-07-10 00:55:37,877 - Epoch [29/300] completed. Avg Train Loss: 0.0415, Accuracy: 98.75%
+2024-07-10 00:55:41,088 - Epoch [29/300] completed. Avg Test Loss: 4.2595, Test Accuracy: 43.00%
+2024-07-10 00:55:41,088 - Starting epoch 30/300
+2024-07-10 00:55:45,169 - Epoch [30/300], Step [10/38], Loss: 0.0412
+2024-07-10 00:55:49,891 - Epoch [30/300], Step [20/38], Loss: 0.0165
+2024-07-10 00:55:54,114 - Epoch [30/300], Step [30/38], Loss: 0.0022
+2024-07-10 00:55:57,518 - Epoch [30/300] completed. Avg Train Loss: 0.0271, Accuracy: 99.21%
+2024-07-10 00:56:00,800 - Epoch [30/300] completed. Avg Test Loss: 4.5371, Test Accuracy: 45.00%
+2024-07-10 00:56:00,800 - Starting epoch 31/300
+2024-07-10 00:56:04,955 - Epoch [31/300], Step [10/38], Loss: 0.0049
+2024-07-10 00:56:09,363 - Epoch [31/300], Step [20/38], Loss: 0.0759
+2024-07-10 00:56:13,830 - Epoch [31/300], Step [30/38], Loss: 0.0349
+2024-07-10 00:56:17,008 - Epoch [31/300] completed. Avg Train Loss: 0.0318, Accuracy: 99.00%
+2024-07-10 00:56:20,157 - Epoch [31/300] completed. Avg Test Loss: 3.9393, Test Accuracy: 45.00%
+2024-07-10 00:56:20,157 - Starting epoch 32/300
+2024-07-10 00:56:24,321 - Epoch [32/300], Step [10/38], Loss: 0.0274
+2024-07-10 00:56:28,603 - Epoch [32/300], Step [20/38], Loss: 0.0133
+2024-07-10 00:56:32,924 - Epoch [32/300], Step [30/38], Loss: 0.0183
+2024-07-10 00:56:36,054 - Epoch [32/300] completed. Avg Train Loss: 0.0328, Accuracy: 98.83%
+2024-07-10 00:56:39,050 - Epoch [32/300] completed. Avg Test Loss: 4.8952, Test Accuracy: 44.00%
+2024-07-10 00:56:39,050 - Starting epoch 33/300
+2024-07-10 00:56:42,924 - Epoch [33/300], Step [10/38], Loss: 0.0062
+2024-07-10 00:56:47,259 - Epoch [33/300], Step [20/38], Loss: 0.0493
+2024-07-10 00:56:51,069 - Epoch [33/300], Step [30/38], Loss: 0.0564
+2024-07-10 00:56:54,682 - Epoch [33/300] completed. Avg Train Loss: 0.0227, Accuracy: 99.33%
+2024-07-10 00:56:57,881 - Epoch [33/300] completed. Avg Test Loss: 4.5798, Test Accuracy: 43.80%
+2024-07-10 00:56:57,881 - Starting epoch 34/300
+2024-07-10 00:57:02,249 - Epoch [34/300], Step [10/38], Loss: 0.0671
+2024-07-10 00:57:06,179 - Epoch [34/300], Step [20/38], Loss: 0.0269
+2024-07-10 00:57:10,130 - Epoch [34/300], Step [30/38], Loss: 0.0335
+2024-07-10 00:57:13,369 - Epoch [34/300] completed. Avg Train Loss: 0.0322, Accuracy: 98.92%
+2024-07-10 00:57:16,397 - Epoch [34/300] completed. Avg Test Loss: 6.4090, Test Accuracy: 37.60%
+2024-07-10 00:57:16,397 - Starting epoch 35/300
+2024-07-10 00:57:20,401 - Epoch [35/300], Step [10/38], Loss: 0.0100
+2024-07-10 00:57:24,914 - Epoch [35/300], Step [20/38], Loss: 0.0244
+2024-07-10 00:57:28,703 - Epoch [35/300], Step [30/38], Loss: 0.0250
+2024-07-10 00:57:31,902 - Epoch [35/300] completed. Avg Train Loss: 0.0365, Accuracy: 98.79%
+2024-07-10 00:57:34,886 - Epoch [35/300] completed. Avg Test Loss: 4.9371, Test Accuracy: 41.00%
+2024-07-10 00:57:34,886 - Starting epoch 36/300
+2024-07-10 00:57:39,069 - Epoch [36/300], Step [10/38], Loss: 0.0455
+2024-07-10 00:57:43,320 - Epoch [36/300], Step [20/38], Loss: 0.0157
+2024-07-10 00:57:47,151 - Epoch [36/300], Step [30/38], Loss: 0.0389
+2024-07-10 00:57:50,686 - Epoch [36/300] completed. Avg Train Loss: 0.0717, Accuracy: 97.62%
+2024-07-10 00:57:53,901 - Epoch [36/300] completed. Avg Test Loss: 5.9522, Test Accuracy: 39.60%
+2024-07-10 00:57:53,902 - Starting epoch 37/300
+2024-07-10 00:57:58,140 - Epoch [37/300], Step [10/38], Loss: 0.1687
+2024-07-10 00:58:02,525 - Epoch [37/300], Step [20/38], Loss: 0.6053
+2024-07-10 00:58:06,655 - Epoch [37/300], Step [30/38], Loss: 0.1535
+2024-07-10 00:58:09,782 - Epoch [37/300] completed. Avg Train Loss: 0.1559, Accuracy: 95.12%
+2024-07-10 00:58:12,728 - Epoch [37/300] completed. Avg Test Loss: 4.8125, Test Accuracy: 38.80%
+2024-07-10 00:58:12,728 - Starting epoch 38/300
+2024-07-10 00:58:16,522 - Epoch [38/300], Step [10/38], Loss: 0.0624
+2024-07-10 00:58:20,729 - Epoch [38/300], Step [20/38], Loss: 0.1712
+2024-07-10 00:58:24,868 - Epoch [38/300], Step [30/38], Loss: 0.1032
+2024-07-10 00:58:27,488 - Epoch [38/300] completed. Avg Train Loss: 0.2460, Accuracy: 92.67%
+2024-07-10 00:58:30,310 - Epoch [38/300] completed. Avg Test Loss: 5.6867, Test Accuracy: 40.60%
+2024-07-10 00:58:30,310 - Starting epoch 39/300
+2024-07-10 00:58:34,341 - Epoch [39/300], Step [10/38], Loss: 0.4061
+2024-07-10 00:58:38,224 - Epoch [39/300], Step [20/38], Loss: 0.1192
+2024-07-10 00:58:42,151 - Epoch [39/300], Step [30/38], Loss: 0.2418
+2024-07-10 00:58:45,213 - Epoch [39/300] completed. Avg Train Loss: 0.2993, Accuracy: 91.71%
+2024-07-10 00:58:48,011 - Epoch [39/300] completed. Avg Test Loss: 4.8053, Test Accuracy: 43.20%
+2024-07-10 00:58:48,011 - Starting epoch 40/300
+2024-07-10 00:58:52,145 - Epoch [40/300], Step [10/38], Loss: 0.0702
+2024-07-10 00:58:56,334 - Epoch [40/300], Step [20/38], Loss: 0.1631
+2024-07-10 00:59:00,536 - Epoch [40/300], Step [30/38], Loss: 0.1469
+2024-07-10 00:59:03,513 - Epoch [40/300] completed. Avg Train Loss: 0.1481, Accuracy: 95.29%
+2024-07-10 00:59:06,427 - Epoch [40/300] completed. Avg Test Loss: 4.7376, Test Accuracy: 44.00%
+2024-07-10 00:59:06,427 - Starting epoch 41/300
+2024-07-10 00:59:10,499 - Epoch [41/300], Step [10/38], Loss: 0.0112
+2024-07-10 00:59:14,488 - Epoch [41/300], Step [20/38], Loss: 0.0581
+2024-07-10 00:59:18,815 - Epoch [41/300], Step [30/38], Loss: 0.0049
+2024-07-10 00:59:21,630 - Epoch [41/300] completed. Avg Train Loss: 0.0733, Accuracy: 97.29%
+2024-07-10 00:59:24,486 - Epoch [41/300] completed. Avg Test Loss: 5.9420, Test Accuracy: 43.80%
+2024-07-10 00:59:24,486 - Starting epoch 42/300
+2024-07-10 00:59:28,326 - Epoch [42/300], Step [10/38], Loss: 0.0912
+2024-07-10 00:59:32,868 - Epoch [42/300], Step [20/38], Loss: 0.0322
+2024-07-10 00:59:36,932 - Epoch [42/300], Step [30/38], Loss: 0.1585
+2024-07-10 00:59:40,281 - Epoch [42/300] completed. Avg Train Loss: 0.0510, Accuracy: 98.04%
+2024-07-10 00:59:43,494 - Epoch [42/300] completed. Avg Test Loss: 4.7145, Test Accuracy: 50.40%
+2024-07-10 00:59:43,494 - Starting epoch 43/300
+2024-07-10 00:59:47,853 - Epoch [43/300], Step [10/38], Loss: 0.0142
+2024-07-10 00:59:51,772 - Epoch [43/300], Step [20/38], Loss: 0.0783
+2024-07-10 00:59:56,164 - Epoch [43/300], Step [30/38], Loss: 0.0157
+2024-07-10 00:59:59,157 - Epoch [43/300] completed. Avg Train Loss: 0.0623, Accuracy: 97.88%
+2024-07-10 01:00:02,263 - Epoch [43/300] completed. Avg Test Loss: 6.8650, Test Accuracy: 41.80%
+2024-07-10 01:00:02,263 - Starting epoch 44/300
+2024-07-10 01:00:06,310 - Epoch [44/300], Step [10/38], Loss: 0.0649
+2024-07-10 01:00:10,728 - Epoch [44/300], Step [20/38], Loss: 0.0273
+2024-07-10 01:00:15,010 - Epoch [44/300], Step [30/38], Loss: 0.0134
+2024-07-10 01:00:18,128 - Epoch [44/300] completed. Avg Train Loss: 0.0483, Accuracy: 98.42%
+2024-07-10 01:00:21,301 - Epoch [44/300] completed. Avg Test Loss: 5.4650, Test Accuracy: 46.20%
+2024-07-10 01:00:21,301 - Starting epoch 45/300
+2024-07-10 01:00:25,437 - Epoch [45/300], Step [10/38], Loss: 0.0205
+2024-07-10 01:00:29,799 - Epoch [45/300], Step [20/38], Loss: 0.0542
+2024-07-10 01:00:34,193 - Epoch [45/300], Step [30/38], Loss: 0.0138
+2024-07-10 01:00:37,563 - Epoch [45/300] completed. Avg Train Loss: 0.0300, Accuracy: 98.83%
+2024-07-10 01:00:40,836 - Epoch [45/300] completed. Avg Test Loss: 5.0308, Test Accuracy: 46.80%
+2024-07-10 01:00:40,836 - Starting epoch 46/300
+2024-07-10 01:00:45,066 - Epoch [46/300], Step [10/38], Loss: 0.0078
+2024-07-10 01:00:49,604 - Epoch [46/300], Step [20/38], Loss: 0.0104
+2024-07-10 01:00:53,825 - Epoch [46/300], Step [30/38], Loss: 0.1042
+2024-07-10 01:00:57,179 - Epoch [46/300] completed. Avg Train Loss: 0.0552, Accuracy: 98.38%
+2024-07-10 01:01:00,177 - Epoch [46/300] completed. Avg Test Loss: 5.7142, Test Accuracy: 51.60%
+2024-07-10 01:01:00,177 - Starting epoch 47/300
+2024-07-10 01:01:04,854 - Epoch [47/300], Step [10/38], Loss: 0.0306
+2024-07-10 01:01:09,511 - Epoch [47/300], Step [20/38], Loss: 0.0113
+2024-07-10 01:01:13,666 - Epoch [47/300], Step [30/38], Loss: 0.1150
+2024-07-10 01:01:17,306 - Epoch [47/300] completed. Avg Train Loss: 0.0911, Accuracy: 97.38%
+2024-07-10 01:01:20,418 - Epoch [47/300] completed. Avg Test Loss: 4.7677, Test Accuracy: 50.20%
+2024-07-10 01:01:20,418 - Starting epoch 48/300
+2024-07-10 01:01:24,710 - Epoch [48/300], Step [10/38], Loss: 0.0771
+2024-07-10 01:01:29,297 - Epoch [48/300], Step [20/38], Loss: 0.1133
+2024-07-10 01:01:34,011 - Epoch [48/300], Step [30/38], Loss: 0.1957
+2024-07-10 01:01:37,345 - Epoch [48/300] completed. Avg Train Loss: 0.0873, Accuracy: 97.25%
+2024-07-10 01:01:40,720 - Epoch [48/300] completed. Avg Test Loss: 6.0570, Test Accuracy: 37.20%
+2024-07-10 01:01:40,720 - Starting epoch 49/300
+2024-07-10 01:01:45,052 - Epoch [49/300], Step [10/38], Loss: 0.1448
+2024-07-10 01:01:49,668 - Epoch [49/300], Step [20/38], Loss: 0.1531
+2024-07-10 01:01:54,142 - Epoch [49/300], Step [30/38], Loss: 0.0200
+2024-07-10 01:01:57,691 - Epoch [49/300] completed. Avg Train Loss: 0.1009, Accuracy: 96.88%
+2024-07-10 01:02:01,064 - Epoch [49/300] completed. Avg Test Loss: 7.5293, Test Accuracy: 40.40%
+2024-07-10 01:02:01,064 - Starting epoch 50/300
+2024-07-10 01:02:05,338 - Epoch [50/300], Step [10/38], Loss: 0.2183
+2024-07-10 01:02:09,978 - Epoch [50/300], Step [20/38], Loss: 0.1799
+2024-07-10 01:02:14,460 - Epoch [50/300], Step [30/38], Loss: 0.0955
+2024-07-10 01:02:17,586 - Epoch [50/300] completed. Avg Train Loss: 0.1626, Accuracy: 95.50%
+2024-07-10 01:02:20,821 - Epoch [50/300] completed. Avg Test Loss: 6.6734, Test Accuracy: 40.20%
+2024-07-10 01:02:20,821 - Starting epoch 51/300
+2024-07-10 01:02:25,020 - Epoch [51/300], Step [10/38], Loss: 0.5699
+2024-07-10 01:02:29,696 - Epoch [51/300], Step [20/38], Loss: 0.1970
+2024-07-10 01:02:33,957 - Epoch [51/300], Step [30/38], Loss: 0.2310
+2024-07-10 01:02:37,213 - Epoch [51/300] completed. Avg Train Loss: 0.2280, Accuracy: 93.96%
+2024-07-10 01:02:40,278 - Epoch [51/300] completed. Avg Test Loss: 6.3298, Test Accuracy: 48.00%
+2024-07-10 01:02:40,279 - Starting epoch 52/300
+2024-07-10 01:02:44,768 - Epoch [52/300], Step [10/38], Loss: 0.3851
+2024-07-10 01:02:49,388 - Epoch [52/300], Step [20/38], Loss: 0.1581
+2024-07-10 01:02:53,652 - Epoch [52/300], Step [30/38], Loss: 0.0873
+2024-07-10 01:02:57,195 - Epoch [52/300] completed. Avg Train Loss: 0.1636, Accuracy: 95.54%
+2024-07-10 01:03:00,608 - Epoch [52/300] completed. Avg Test Loss: 4.8433, Test Accuracy: 56.20%
+2024-07-10 01:03:00,608 - Starting epoch 53/300
+2024-07-10 01:03:04,867 - Epoch [53/300], Step [10/38], Loss: 0.0782
+2024-07-10 01:03:09,400 - Epoch [53/300], Step [20/38], Loss: 0.3000
+2024-07-10 01:03:14,181 - Epoch [53/300], Step [30/38], Loss: 0.1029
+2024-07-10 01:03:17,237 - Epoch [53/300] completed. Avg Train Loss: 0.0917, Accuracy: 97.04%
+2024-07-10 01:03:20,376 - Epoch [53/300] completed. Avg Test Loss: 6.4114, Test Accuracy: 45.00%
+2024-07-10 01:03:20,376 - Starting epoch 54/300
+2024-07-10 01:03:25,094 - Epoch [54/300], Step [10/38], Loss: 0.0493
+2024-07-10 01:03:29,474 - Epoch [54/300], Step [20/38], Loss: 0.0036
+2024-07-10 01:03:34,049 - Epoch [54/300], Step [30/38], Loss: 0.0685
+2024-07-10 01:03:37,542 - Epoch [54/300] completed. Avg Train Loss: 0.0411, Accuracy: 98.42%
+2024-07-10 01:03:41,025 - Epoch [54/300] completed. Avg Test Loss: 6.4007, Test Accuracy: 46.20%
+2024-07-10 01:03:41,026 - Starting epoch 55/300
+2024-07-10 01:03:45,581 - Epoch [55/300], Step [10/38], Loss: 0.0083
+2024-07-10 01:03:49,986 - Epoch [55/300], Step [20/38], Loss: 0.0045
+2024-07-10 01:03:54,434 - Epoch [55/300], Step [30/38], Loss: 0.0313
+2024-07-10 01:03:58,014 - Epoch [55/300] completed. Avg Train Loss: 0.0401, Accuracy: 98.58%
+2024-07-10 01:04:01,497 - Epoch [55/300] completed. Avg Test Loss: 4.2602, Test Accuracy: 54.40%
+2024-07-10 01:04:01,497 - Starting epoch 56/300
+2024-07-10 01:04:06,329 - Epoch [56/300], Step [10/38], Loss: 0.0607
+2024-07-10 01:04:10,910 - Epoch [56/300], Step [20/38], Loss: 0.0106
+2024-07-10 01:04:15,577 - Epoch [56/300], Step [30/38], Loss: 0.0079
+2024-07-10 01:04:19,008 - Epoch [56/300] completed. Avg Train Loss: 0.0410, Accuracy: 98.46%
+2024-07-10 01:04:22,457 - Epoch [56/300] completed. Avg Test Loss: 4.7407, Test Accuracy: 50.40%
+2024-07-10 01:04:22,457 - Starting epoch 57/300
+2024-07-10 01:04:26,985 - Epoch [57/300], Step [10/38], Loss: 0.0056
+2024-07-10 01:04:31,538 - Epoch [57/300], Step [20/38], Loss: 0.0416
+2024-07-10 01:04:35,939 - Epoch [57/300], Step [30/38], Loss: 0.1239
+2024-07-10 01:04:39,084 - Epoch [57/300] completed. Avg Train Loss: 0.0373, Accuracy: 98.83%
+2024-07-10 01:04:43,516 - Epoch [57/300] completed. Avg Test Loss: 4.2961, Test Accuracy: 51.80%
+2024-07-10 01:04:43,516 - Starting epoch 58/300
+2024-07-10 01:04:51,142 - Epoch [58/300], Step [10/38], Loss: 0.0010
+2024-07-10 01:04:59,119 - Epoch [58/300], Step [20/38], Loss: 0.0105
+2024-07-10 01:05:06,880 - Epoch [58/300], Step [30/38], Loss: 0.1470
+2024-07-10 01:05:13,099 - Epoch [58/300] completed. Avg Train Loss: 0.0433, Accuracy: 98.96%
+2024-07-10 01:05:18,584 - Epoch [58/300] completed. Avg Test Loss: 4.6901, Test Accuracy: 49.80%
+2024-07-10 01:05:18,584 - Starting epoch 59/300
+2024-07-10 01:05:22,609 - Epoch [59/300], Step [10/38], Loss: 0.0101
+2024-07-10 01:05:27,242 - Epoch [59/300], Step [20/38], Loss: 0.0092
+2024-07-10 01:05:31,435 - Epoch [59/300], Step [30/38], Loss: 0.2292
+2024-07-10 01:05:34,900 - Epoch [59/300] completed. Avg Train Loss: 0.0850, Accuracy: 98.25%
+2024-07-10 01:05:38,013 - Epoch [59/300] completed. Avg Test Loss: 4.4338, Test Accuracy: 57.80%
+2024-07-10 01:05:38,013 - Starting epoch 60/300
+2024-07-10 01:05:42,446 - Epoch [60/300], Step [10/38], Loss: 0.1220
+2024-07-10 01:05:46,959 - Epoch [60/300], Step [20/38], Loss: 0.0798
+2024-07-10 01:05:51,504 - Epoch [60/300], Step [30/38], Loss: 0.3546
+2024-07-10 01:05:54,625 - Epoch [60/300] completed. Avg Train Loss: 0.1061, Accuracy: 97.62%
+2024-07-10 01:05:57,846 - Epoch [60/300] completed. Avg Test Loss: 6.1426, Test Accuracy: 48.60%
+2024-07-10 01:05:57,846 - Starting epoch 61/300
+2024-07-10 01:06:02,202 - Epoch [61/300], Step [10/38], Loss: 0.0514
+2024-07-10 01:06:06,460 - Epoch [61/300], Step [20/38], Loss: 0.0034
+2024-07-10 01:06:10,920 - Epoch [61/300], Step [30/38], Loss: 0.0200
+2024-07-10 01:06:14,552 - Epoch [61/300] completed. Avg Train Loss: 0.1101, Accuracy: 97.46%
+2024-07-10 01:06:17,902 - Epoch [61/300] completed. Avg Test Loss: 6.6326, Test Accuracy: 46.00%
+2024-07-10 01:06:17,902 - Starting epoch 62/300
+2024-07-10 01:06:22,600 - Epoch [62/300], Step [10/38], Loss: 0.0244
+2024-07-10 01:06:27,012 - Epoch [62/300], Step [20/38], Loss: 0.0004
+2024-07-10 01:06:31,691 - Epoch [62/300], Step [30/38], Loss: 0.0028
+2024-07-10 01:06:35,396 - Epoch [62/300] completed. Avg Train Loss: 0.0296, Accuracy: 99.04%
+2024-07-10 01:06:39,004 - Epoch [62/300] completed. Avg Test Loss: 6.3790, Test Accuracy: 47.80%
+2024-07-10 01:06:39,004 - Starting epoch 63/300
+2024-07-10 01:06:43,228 - Epoch [63/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:06:47,753 - Epoch [63/300], Step [20/38], Loss: 0.0007
+2024-07-10 01:06:52,005 - Epoch [63/300], Step [30/38], Loss: 0.0151
+2024-07-10 01:06:55,524 - Epoch [63/300] completed. Avg Train Loss: 0.0116, Accuracy: 99.42%
+2024-07-10 01:06:58,548 - Epoch [63/300] completed. Avg Test Loss: 5.3601, Test Accuracy: 50.20%
+2024-07-10 01:06:58,548 - Starting epoch 64/300
+2024-07-10 01:07:03,177 - Epoch [64/300], Step [10/38], Loss: 0.0109
+2024-07-10 01:07:07,611 - Epoch [64/300], Step [20/38], Loss: 0.0143
+2024-07-10 01:07:11,691 - Epoch [64/300], Step [30/38], Loss: 0.0052
+2024-07-10 01:07:15,269 - Epoch [64/300] completed. Avg Train Loss: 0.0230, Accuracy: 99.42%
+2024-07-10 01:07:18,583 - Epoch [64/300] completed. Avg Test Loss: 6.6869, Test Accuracy: 44.60%
+2024-07-10 01:07:18,583 - Starting epoch 65/300
+2024-07-10 01:07:22,968 - Epoch [65/300], Step [10/38], Loss: 0.0004
+2024-07-10 01:07:27,471 - Epoch [65/300], Step [20/38], Loss: 0.0006
+2024-07-10 01:07:32,268 - Epoch [65/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:07:35,366 - Epoch [65/300] completed. Avg Train Loss: 0.0076, Accuracy: 99.75%
+2024-07-10 01:07:38,683 - Epoch [65/300] completed. Avg Test Loss: 5.6768, Test Accuracy: 50.20%
+2024-07-10 01:07:38,683 - Starting epoch 66/300
+2024-07-10 01:07:43,165 - Epoch [66/300], Step [10/38], Loss: 0.0009
+2024-07-10 01:07:47,990 - Epoch [66/300], Step [20/38], Loss: 0.0034
+2024-07-10 01:07:52,442 - Epoch [66/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:07:56,131 - Epoch [66/300] completed. Avg Train Loss: 0.0077, Accuracy: 99.79%
+2024-07-10 01:07:59,297 - Epoch [66/300] completed. Avg Test Loss: 5.1850, Test Accuracy: 50.40%
+2024-07-10 01:07:59,297 - Starting epoch 67/300
+2024-07-10 01:08:03,551 - Epoch [67/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:08:08,287 - Epoch [67/300], Step [20/38], Loss: 0.0009
+2024-07-10 01:08:12,586 - Epoch [67/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:08:16,054 - Epoch [67/300] completed. Avg Train Loss: 0.0108, Accuracy: 99.75%
+2024-07-10 01:08:19,063 - Epoch [67/300] completed. Avg Test Loss: 5.9373, Test Accuracy: 47.60%
+2024-07-10 01:08:19,063 - Starting epoch 68/300
+2024-07-10 01:08:23,700 - Epoch [68/300], Step [10/38], Loss: 0.0929
+2024-07-10 01:08:28,044 - Epoch [68/300], Step [20/38], Loss: 0.0144
+2024-07-10 01:08:32,525 - Epoch [68/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:08:36,112 - Epoch [68/300] completed. Avg Train Loss: 0.0177, Accuracy: 99.38%
+2024-07-10 01:08:39,252 - Epoch [68/300] completed. Avg Test Loss: 4.7896, Test Accuracy: 56.60%
+2024-07-10 01:08:39,252 - Starting epoch 69/300
+2024-07-10 01:08:43,697 - Epoch [69/300], Step [10/38], Loss: 0.0019
+2024-07-10 01:08:48,295 - Epoch [69/300], Step [20/38], Loss: 0.0003
+2024-07-10 01:08:52,689 - Epoch [69/300], Step [30/38], Loss: 0.0040
+2024-07-10 01:08:55,903 - Epoch [69/300] completed. Avg Train Loss: 0.0214, Accuracy: 99.21%
+2024-07-10 01:08:59,181 - Epoch [69/300] completed. Avg Test Loss: 4.9360, Test Accuracy: 52.40%
+2024-07-10 01:08:59,181 - Starting epoch 70/300
+2024-07-10 01:09:03,463 - Epoch [70/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:09:08,224 - Epoch [70/300], Step [20/38], Loss: 0.0575
+2024-07-10 01:09:12,620 - Epoch [70/300], Step [30/38], Loss: 0.0188
+2024-07-10 01:09:16,356 - Epoch [70/300] completed. Avg Train Loss: 0.0374, Accuracy: 98.88%
+2024-07-10 01:09:19,599 - Epoch [70/300] completed. Avg Test Loss: 6.3626, Test Accuracy: 52.40%
+2024-07-10 01:09:19,599 - Starting epoch 71/300
+2024-07-10 01:09:23,689 - Epoch [71/300], Step [10/38], Loss: 0.0003
+2024-07-10 01:09:28,219 - Epoch [71/300], Step [20/38], Loss: 0.0002
+2024-07-10 01:09:32,437 - Epoch [71/300], Step [30/38], Loss: 0.0105
+2024-07-10 01:09:35,690 - Epoch [71/300] completed. Avg Train Loss: 0.0282, Accuracy: 99.12%
+2024-07-10 01:09:38,872 - Epoch [71/300] completed. Avg Test Loss: 6.1857, Test Accuracy: 53.80%
+2024-07-10 01:09:38,872 - Starting epoch 72/300
+2024-07-10 01:09:43,038 - Epoch [72/300], Step [10/38], Loss: 0.1223
+2024-07-10 01:09:47,420 - Epoch [72/300], Step [20/38], Loss: 0.0387
+2024-07-10 01:09:51,821 - Epoch [72/300], Step [30/38], Loss: 0.0876
+2024-07-10 01:09:55,022 - Epoch [72/300] completed. Avg Train Loss: 0.0835, Accuracy: 98.12%
+2024-07-10 01:09:58,210 - Epoch [72/300] completed. Avg Test Loss: 5.9727, Test Accuracy: 52.60%
+2024-07-10 01:09:58,210 - Starting epoch 73/300
+2024-07-10 01:10:02,504 - Epoch [73/300], Step [10/38], Loss: 0.0011
+2024-07-10 01:10:06,992 - Epoch [73/300], Step [20/38], Loss: 0.0268
+2024-07-10 01:10:11,394 - Epoch [73/300], Step [30/38], Loss: 0.2435
+2024-07-10 01:10:14,690 - Epoch [73/300] completed. Avg Train Loss: 0.1097, Accuracy: 96.88%
+2024-07-10 01:10:17,974 - Epoch [73/300] completed. Avg Test Loss: 9.5188, Test Accuracy: 40.20%
+2024-07-10 01:10:17,974 - Starting epoch 74/300
+2024-07-10 01:10:22,432 - Epoch [74/300], Step [10/38], Loss: 0.1465
+2024-07-10 01:10:26,951 - Epoch [74/300], Step [20/38], Loss: 0.1102
+2024-07-10 01:10:31,413 - Epoch [74/300], Step [30/38], Loss: 0.1189
+2024-07-10 01:10:34,628 - Epoch [74/300] completed. Avg Train Loss: 0.0991, Accuracy: 97.21%
+2024-07-10 01:10:37,826 - Epoch [74/300] completed. Avg Test Loss: 5.4358, Test Accuracy: 56.40%
+2024-07-10 01:10:37,827 - Starting epoch 75/300
+2024-07-10 01:10:42,456 - Epoch [75/300], Step [10/38], Loss: 0.0335
+2024-07-10 01:10:46,814 - Epoch [75/300], Step [20/38], Loss: 0.1052
+2024-07-10 01:10:51,256 - Epoch [75/300], Step [30/38], Loss: 0.0018
+2024-07-10 01:10:54,319 - Epoch [75/300] completed. Avg Train Loss: 0.0947, Accuracy: 97.42%
+2024-07-10 01:10:57,553 - Epoch [75/300] completed. Avg Test Loss: 6.6584, Test Accuracy: 45.60%
+2024-07-10 01:10:57,553 - Starting epoch 76/300
+2024-07-10 01:11:01,697 - Epoch [76/300], Step [10/38], Loss: 0.1533
+2024-07-10 01:11:06,157 - Epoch [76/300], Step [20/38], Loss: 0.0191
+2024-07-10 01:11:10,339 - Epoch [76/300], Step [30/38], Loss: 0.1056
+2024-07-10 01:11:13,598 - Epoch [76/300] completed. Avg Train Loss: 0.0822, Accuracy: 98.21%
+2024-07-10 01:11:16,554 - Epoch [76/300] completed. Avg Test Loss: 7.4960, Test Accuracy: 43.80%
+2024-07-10 01:11:16,554 - Starting epoch 77/300
+2024-07-10 01:11:20,984 - Epoch [77/300], Step [10/38], Loss: 0.0028
+2024-07-10 01:11:25,626 - Epoch [77/300], Step [20/38], Loss: 0.0017
+2024-07-10 01:11:29,782 - Epoch [77/300], Step [30/38], Loss: 0.1351
+2024-07-10 01:11:33,281 - Epoch [77/300] completed. Avg Train Loss: 0.0294, Accuracy: 99.04%
+2024-07-10 01:11:36,583 - Epoch [77/300] completed. Avg Test Loss: 7.3930, Test Accuracy: 53.20%
+2024-07-10 01:11:36,583 - Starting epoch 78/300
+2024-07-10 01:11:40,643 - Epoch [78/300], Step [10/38], Loss: 0.1420
+2024-07-10 01:11:45,183 - Epoch [78/300], Step [20/38], Loss: 0.1494
+2024-07-10 01:11:49,452 - Epoch [78/300], Step [30/38], Loss: 0.1129
+2024-07-10 01:11:52,820 - Epoch [78/300] completed. Avg Train Loss: 0.0550, Accuracy: 98.83%
+2024-07-10 01:11:55,784 - Epoch [78/300] completed. Avg Test Loss: 5.6173, Test Accuracy: 57.80%
+2024-07-10 01:11:55,784 - Starting epoch 79/300
+2024-07-10 01:12:00,390 - Epoch [79/300], Step [10/38], Loss: 0.0338
+2024-07-10 01:12:04,650 - Epoch [79/300], Step [20/38], Loss: 0.1475
+2024-07-10 01:12:08,888 - Epoch [79/300], Step [30/38], Loss: 0.0425
+2024-07-10 01:12:12,457 - Epoch [79/300] completed. Avg Train Loss: 0.0547, Accuracy: 98.38%
+2024-07-10 01:12:15,561 - Epoch [79/300] completed. Avg Test Loss: 4.6349, Test Accuracy: 53.00%
+2024-07-10 01:12:15,562 - Starting epoch 80/300
+2024-07-10 01:12:20,104 - Epoch [80/300], Step [10/38], Loss: 0.0005
+2024-07-10 01:12:24,552 - Epoch [80/300], Step [20/38], Loss: 0.0272
+2024-07-10 01:12:29,246 - Epoch [80/300], Step [30/38], Loss: 0.0888
+2024-07-10 01:12:32,285 - Epoch [80/300] completed. Avg Train Loss: 0.0306, Accuracy: 99.00%
+2024-07-10 01:12:35,615 - Epoch [80/300] completed. Avg Test Loss: 5.7799, Test Accuracy: 51.00%
+2024-07-10 01:12:35,616 - Starting epoch 81/300
+2024-07-10 01:12:39,901 - Epoch [81/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:12:44,598 - Epoch [81/300], Step [20/38], Loss: 0.0004
+2024-07-10 01:12:48,660 - Epoch [81/300], Step [30/38], Loss: 0.0026
+2024-07-10 01:12:52,553 - Epoch [81/300] completed. Avg Train Loss: 0.0631, Accuracy: 98.58%
+2024-07-10 01:12:55,869 - Epoch [81/300] completed. Avg Test Loss: 6.7185, Test Accuracy: 51.60%
+2024-07-10 01:12:55,869 - Starting epoch 82/300
+2024-07-10 01:13:00,420 - Epoch [82/300], Step [10/38], Loss: 0.0118
+2024-07-10 01:13:05,037 - Epoch [82/300], Step [20/38], Loss: 0.0017
+2024-07-10 01:13:09,709 - Epoch [82/300], Step [30/38], Loss: 0.0481
+2024-07-10 01:13:13,426 - Epoch [82/300] completed. Avg Train Loss: 0.0289, Accuracy: 99.33%
+2024-07-10 01:13:16,681 - Epoch [82/300] completed. Avg Test Loss: 10.1348, Test Accuracy: 40.80%
+2024-07-10 01:13:16,681 - Starting epoch 83/300
+2024-07-10 01:13:21,603 - Epoch [83/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:13:25,952 - Epoch [83/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:13:30,229 - Epoch [83/300], Step [30/38], Loss: 0.0158
+2024-07-10 01:13:33,636 - Epoch [83/300] completed. Avg Train Loss: 0.0639, Accuracy: 98.58%
+2024-07-10 01:13:36,759 - Epoch [83/300] completed. Avg Test Loss: 5.0056, Test Accuracy: 63.40%
+2024-07-10 01:13:36,759 - Starting epoch 84/300
+2024-07-10 01:13:41,061 - Epoch [84/300], Step [10/38], Loss: 0.0409
+2024-07-10 01:13:45,769 - Epoch [84/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:13:50,328 - Epoch [84/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:13:53,536 - Epoch [84/300] completed. Avg Train Loss: 0.0382, Accuracy: 98.71%
+2024-07-10 01:13:56,644 - Epoch [84/300] completed. Avg Test Loss: 4.9761, Test Accuracy: 55.60%
+2024-07-10 01:13:56,644 - Starting epoch 85/300
+2024-07-10 01:14:01,231 - Epoch [85/300], Step [10/38], Loss: 0.0009
+2024-07-10 01:14:05,840 - Epoch [85/300], Step [20/38], Loss: 0.0581
+2024-07-10 01:14:10,210 - Epoch [85/300], Step [30/38], Loss: 0.0052
+2024-07-10 01:14:13,284 - Epoch [85/300] completed. Avg Train Loss: 0.0617, Accuracy: 98.71%
+2024-07-10 01:14:16,434 - Epoch [85/300] completed. Avg Test Loss: 5.9276, Test Accuracy: 55.80%
+2024-07-10 01:14:16,434 - Starting epoch 86/300
+2024-07-10 01:14:20,623 - Epoch [86/300], Step [10/38], Loss: 0.0005
+2024-07-10 01:14:25,203 - Epoch [86/300], Step [20/38], Loss: 0.2217
+2024-07-10 01:14:29,470 - Epoch [86/300], Step [30/38], Loss: 0.0020
+2024-07-10 01:14:32,713 - Epoch [86/300] completed. Avg Train Loss: 0.0552, Accuracy: 98.42%
+2024-07-10 01:14:35,705 - Epoch [86/300] completed. Avg Test Loss: 7.4750, Test Accuracy: 48.20%
+2024-07-10 01:14:35,705 - Starting epoch 87/300
+2024-07-10 01:14:39,954 - Epoch [87/300], Step [10/38], Loss: 0.0005
+2024-07-10 01:14:44,343 - Epoch [87/300], Step [20/38], Loss: 0.0227
+2024-07-10 01:14:48,740 - Epoch [87/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:14:51,627 - Epoch [87/300] completed. Avg Train Loss: 0.0362, Accuracy: 98.96%
+2024-07-10 01:14:54,779 - Epoch [87/300] completed. Avg Test Loss: 4.3376, Test Accuracy: 61.60%
+2024-07-10 01:14:54,780 - Starting epoch 88/300
+2024-07-10 01:14:59,007 - Epoch [88/300], Step [10/38], Loss: 0.0012
+2024-07-10 01:15:03,744 - Epoch [88/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:15:08,514 - Epoch [88/300], Step [30/38], Loss: 0.0005
+2024-07-10 01:15:11,874 - Epoch [88/300] completed. Avg Train Loss: 0.0146, Accuracy: 99.67%
+2024-07-10 01:15:15,053 - Epoch [88/300] completed. Avg Test Loss: 5.5642, Test Accuracy: 56.60%
+2024-07-10 01:15:15,053 - Starting epoch 89/300
+2024-07-10 01:15:19,581 - Epoch [89/300], Step [10/38], Loss: 0.0440
+2024-07-10 01:15:23,856 - Epoch [89/300], Step [20/38], Loss: 0.0007
+2024-07-10 01:15:28,334 - Epoch [89/300], Step [30/38], Loss: 0.0260
+2024-07-10 01:15:31,822 - Epoch [89/300] completed. Avg Train Loss: 0.0243, Accuracy: 99.46%
+2024-07-10 01:15:34,830 - Epoch [89/300] completed. Avg Test Loss: 5.6208, Test Accuracy: 55.60%
+2024-07-10 01:15:34,830 - Starting epoch 90/300
+2024-07-10 01:15:39,168 - Epoch [90/300], Step [10/38], Loss: 0.0006
+2024-07-10 01:15:43,638 - Epoch [90/300], Step [20/38], Loss: 0.0151
+2024-07-10 01:15:47,767 - Epoch [90/300], Step [30/38], Loss: 0.0816
+2024-07-10 01:15:51,118 - Epoch [90/300] completed. Avg Train Loss: 0.0360, Accuracy: 99.21%
+2024-07-10 01:15:54,148 - Epoch [90/300] completed. Avg Test Loss: 6.6026, Test Accuracy: 52.80%
+2024-07-10 01:15:54,148 - Starting epoch 91/300
+2024-07-10 01:15:58,464 - Epoch [91/300], Step [10/38], Loss: 0.0811
+2024-07-10 01:16:03,072 - Epoch [91/300], Step [20/38], Loss: 0.4069
+2024-07-10 01:16:07,479 - Epoch [91/300], Step [30/38], Loss: 0.1004
+2024-07-10 01:16:10,781 - Epoch [91/300] completed. Avg Train Loss: 0.0406, Accuracy: 98.96%
+2024-07-10 01:16:14,113 - Epoch [91/300] completed. Avg Test Loss: 5.8159, Test Accuracy: 55.60%
+2024-07-10 01:16:14,113 - Starting epoch 92/300
+2024-07-10 01:16:18,250 - Epoch [92/300], Step [10/38], Loss: 0.0030
+2024-07-10 01:16:22,806 - Epoch [92/300], Step [20/38], Loss: 0.0292
+2024-07-10 01:16:27,819 - Epoch [92/300], Step [30/38], Loss: 0.0009
+2024-07-10 01:16:30,970 - Epoch [92/300] completed. Avg Train Loss: 0.0154, Accuracy: 99.50%
+2024-07-10 01:16:34,295 - Epoch [92/300] completed. Avg Test Loss: 4.7290, Test Accuracy: 55.20%
+2024-07-10 01:16:34,295 - Starting epoch 93/300
+2024-07-10 01:16:38,634 - Epoch [93/300], Step [10/38], Loss: 0.0717
+2024-07-10 01:16:43,419 - Epoch [93/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:16:48,111 - Epoch [93/300], Step [30/38], Loss: 0.0254
+2024-07-10 01:16:51,641 - Epoch [93/300] completed. Avg Train Loss: 0.0132, Accuracy: 99.62%
+2024-07-10 01:16:55,130 - Epoch [93/300] completed. Avg Test Loss: 4.4933, Test Accuracy: 61.20%
+2024-07-10 01:16:55,130 - Starting epoch 94/300
+2024-07-10 01:16:59,468 - Epoch [94/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:17:03,543 - Epoch [94/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:17:07,404 - Epoch [94/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:17:10,424 - Epoch [94/300] completed. Avg Train Loss: 0.0080, Accuracy: 99.83%
+2024-07-10 01:17:12,970 - Epoch [94/300] completed. Avg Test Loss: 4.0443, Test Accuracy: 61.60%
+2024-07-10 01:17:12,970 - Starting epoch 95/300
+2024-07-10 01:17:16,776 - Epoch [95/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:17:20,129 - Epoch [95/300], Step [20/38], Loss: 0.0012
+2024-07-10 01:17:23,779 - Epoch [95/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:17:26,816 - Epoch [95/300] completed. Avg Train Loss: 0.0048, Accuracy: 99.88%
+2024-07-10 01:17:29,466 - Epoch [95/300] completed. Avg Test Loss: 3.6672, Test Accuracy: 63.60%
+2024-07-10 01:17:29,466 - Starting epoch 96/300
+2024-07-10 01:17:35,549 - Epoch [96/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:17:42,520 - Epoch [96/300], Step [20/38], Loss: 0.0004
+2024-07-10 01:17:49,401 - Epoch [96/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:17:54,450 - Epoch [96/300] completed. Avg Train Loss: 0.0008, Accuracy: 99.96%
+2024-07-10 01:17:59,479 - Epoch [96/300] completed. Avg Test Loss: 4.1512, Test Accuracy: 61.60%
+2024-07-10 01:17:59,479 - Starting epoch 97/300
+2024-07-10 01:18:04,098 - Epoch [97/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:18:09,212 - Epoch [97/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:18:14,168 - Epoch [97/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:18:17,501 - Epoch [97/300] completed. Avg Train Loss: 0.0011, Accuracy: 99.96%
+2024-07-10 01:18:20,076 - Epoch [97/300] completed. Avg Test Loss: 4.2064, Test Accuracy: 60.20%
+2024-07-10 01:18:20,077 - Starting epoch 98/300
+2024-07-10 01:18:23,597 - Epoch [98/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:18:27,389 - Epoch [98/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:18:31,299 - Epoch [98/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:18:35,099 - Epoch [98/300] completed. Avg Train Loss: 0.0036, Accuracy: 99.83%
+2024-07-10 01:18:39,997 - Epoch [98/300] completed. Avg Test Loss: 4.5881, Test Accuracy: 59.40%
+2024-07-10 01:18:39,997 - Starting epoch 99/300
+2024-07-10 01:18:45,974 - Epoch [99/300], Step [10/38], Loss: 0.0009
+2024-07-10 01:18:52,705 - Epoch [99/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:18:59,352 - Epoch [99/300], Step [30/38], Loss: 0.0009
+2024-07-10 01:19:04,145 - Epoch [99/300] completed. Avg Train Loss: 0.0018, Accuracy: 99.92%
+2024-07-10 01:19:06,931 - Epoch [99/300] completed. Avg Test Loss: 4.4149, Test Accuracy: 64.00%
+2024-07-10 01:19:06,931 - Starting epoch 100/300
+2024-07-10 01:19:11,016 - Epoch [100/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:19:15,059 - Epoch [100/300], Step [20/38], Loss: 0.0003
+2024-07-10 01:19:19,264 - Epoch [100/300], Step [30/38], Loss: 0.0009
+2024-07-10 01:19:22,351 - Epoch [100/300] completed. Avg Train Loss: 0.0381, Accuracy: 99.46%
+2024-07-10 01:19:25,403 - Epoch [100/300] completed. Avg Test Loss: 4.2893, Test Accuracy: 59.60%
+2024-07-10 01:19:25,403 - Starting epoch 101/300
+2024-07-10 01:19:29,342 - Epoch [101/300], Step [10/38], Loss: 0.0769
+2024-07-10 01:19:33,757 - Epoch [101/300], Step [20/38], Loss: 0.0271
+2024-07-10 01:19:37,802 - Epoch [101/300], Step [30/38], Loss: 0.0100
+2024-07-10 01:19:40,854 - Epoch [101/300] completed. Avg Train Loss: 0.0182, Accuracy: 99.46%
+2024-07-10 01:19:43,862 - Epoch [101/300] completed. Avg Test Loss: 5.4922, Test Accuracy: 59.20%
+2024-07-10 01:19:43,862 - Starting epoch 102/300
+2024-07-10 01:19:48,228 - Epoch [102/300], Step [10/38], Loss: 0.1786
+2024-07-10 01:19:52,500 - Epoch [102/300], Step [20/38], Loss: 0.0128
+2024-07-10 01:19:56,685 - Epoch [102/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:19:59,851 - Epoch [102/300] completed. Avg Train Loss: 0.0410, Accuracy: 99.04%
+2024-07-10 01:20:02,770 - Epoch [102/300] completed. Avg Test Loss: 5.2998, Test Accuracy: 56.00%
+2024-07-10 01:20:02,770 - Starting epoch 103/300
+2024-07-10 01:20:06,811 - Epoch [103/300], Step [10/38], Loss: 0.0269
+2024-07-10 01:20:10,956 - Epoch [103/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:20:15,247 - Epoch [103/300], Step [30/38], Loss: 0.0034
+2024-07-10 01:20:18,100 - Epoch [103/300] completed. Avg Train Loss: 0.0158, Accuracy: 99.42%
+2024-07-10 01:20:21,146 - Epoch [103/300] completed. Avg Test Loss: 4.6994, Test Accuracy: 56.60%
+2024-07-10 01:20:21,147 - Starting epoch 104/300
+2024-07-10 01:20:25,196 - Epoch [104/300], Step [10/38], Loss: 0.2956
+2024-07-10 01:20:29,622 - Epoch [104/300], Step [20/38], Loss: 0.0179
+2024-07-10 01:20:33,819 - Epoch [104/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:20:36,717 - Epoch [104/300] completed. Avg Train Loss: 0.0289, Accuracy: 99.21%
+2024-07-10 01:20:39,752 - Epoch [104/300] completed. Avg Test Loss: 4.6000, Test Accuracy: 54.60%
+2024-07-10 01:20:39,752 - Starting epoch 105/300
+2024-07-10 01:20:43,765 - Epoch [105/300], Step [10/38], Loss: 0.1383
+2024-07-10 01:20:48,233 - Epoch [105/300], Step [20/38], Loss: 0.0167
+2024-07-10 01:20:52,105 - Epoch [105/300], Step [30/38], Loss: 0.0071
+2024-07-10 01:20:55,426 - Epoch [105/300] completed. Avg Train Loss: 0.0235, Accuracy: 99.33%
+2024-07-10 01:20:58,427 - Epoch [105/300] completed. Avg Test Loss: 4.2937, Test Accuracy: 54.00%
+2024-07-10 01:20:58,427 - Starting epoch 106/300
+2024-07-10 01:21:02,539 - Epoch [106/300], Step [10/38], Loss: 0.0427
+2024-07-10 01:21:07,105 - Epoch [106/300], Step [20/38], Loss: 0.0826
+2024-07-10 01:21:11,223 - Epoch [106/300], Step [30/38], Loss: 0.0016
+2024-07-10 01:21:14,640 - Epoch [106/300] completed. Avg Train Loss: 0.0305, Accuracy: 99.04%
+2024-07-10 01:21:17,441 - Epoch [106/300] completed. Avg Test Loss: 6.3032, Test Accuracy: 48.40%
+2024-07-10 01:21:17,441 - Starting epoch 107/300
+2024-07-10 01:21:21,530 - Epoch [107/300], Step [10/38], Loss: 0.0609
+2024-07-10 01:21:26,107 - Epoch [107/300], Step [20/38], Loss: 0.0060
+2024-07-10 01:21:30,356 - Epoch [107/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:21:33,480 - Epoch [107/300] completed. Avg Train Loss: 0.0742, Accuracy: 98.58%
+2024-07-10 01:21:36,441 - Epoch [107/300] completed. Avg Test Loss: 4.7255, Test Accuracy: 53.00%
+2024-07-10 01:21:36,441 - Starting epoch 108/300
+2024-07-10 01:21:40,661 - Epoch [108/300], Step [10/38], Loss: 0.0007
+2024-07-10 01:21:44,868 - Epoch [108/300], Step [20/38], Loss: 0.0008
+2024-07-10 01:21:48,712 - Epoch [108/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:21:52,040 - Epoch [108/300] completed. Avg Train Loss: 0.0155, Accuracy: 99.38%
+2024-07-10 01:21:54,870 - Epoch [108/300] completed. Avg Test Loss: 3.8217, Test Accuracy: 62.40%
+2024-07-10 01:21:54,870 - Starting epoch 109/300
+2024-07-10 01:21:59,195 - Epoch [109/300], Step [10/38], Loss: 0.0032
+2024-07-10 01:22:03,684 - Epoch [109/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:22:07,883 - Epoch [109/300], Step [30/38], Loss: 0.0005
+2024-07-10 01:22:11,023 - Epoch [109/300] completed. Avg Train Loss: 0.0104, Accuracy: 99.79%
+2024-07-10 01:22:14,037 - Epoch [109/300] completed. Avg Test Loss: 4.6181, Test Accuracy: 59.00%
+2024-07-10 01:22:14,038 - Starting epoch 110/300
+2024-07-10 01:22:18,374 - Epoch [110/300], Step [10/38], Loss: 0.0011
+2024-07-10 01:22:22,447 - Epoch [110/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:22:26,866 - Epoch [110/300], Step [30/38], Loss: 0.0022
+2024-07-10 01:22:29,898 - Epoch [110/300] completed. Avg Train Loss: 0.0006, Accuracy: 100.00%
+2024-07-10 01:22:33,041 - Epoch [110/300] completed. Avg Test Loss: 3.9527, Test Accuracy: 63.20%
+2024-07-10 01:22:33,041 - Starting epoch 111/300
+2024-07-10 01:22:37,327 - Epoch [111/300], Step [10/38], Loss: 0.0031
+2024-07-10 01:22:41,598 - Epoch [111/300], Step [20/38], Loss: 0.0005
+2024-07-10 01:22:45,702 - Epoch [111/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:22:48,672 - Epoch [111/300] completed. Avg Train Loss: 0.0058, Accuracy: 99.79%
+2024-07-10 01:22:51,667 - Epoch [111/300] completed. Avg Test Loss: 5.1086, Test Accuracy: 56.60%
+2024-07-10 01:22:51,668 - Starting epoch 112/300
+2024-07-10 01:22:55,823 - Epoch [112/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:23:00,335 - Epoch [112/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:23:04,457 - Epoch [112/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:23:07,858 - Epoch [112/300] completed. Avg Train Loss: 0.0148, Accuracy: 99.71%
+2024-07-10 01:23:10,801 - Epoch [112/300] completed. Avg Test Loss: 5.3756, Test Accuracy: 56.60%
+2024-07-10 01:23:10,801 - Starting epoch 113/300
+2024-07-10 01:23:15,266 - Epoch [113/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:23:19,459 - Epoch [113/300], Step [20/38], Loss: 0.0086
+2024-07-10 01:23:23,610 - Epoch [113/300], Step [30/38], Loss: 0.0007
+2024-07-10 01:23:27,069 - Epoch [113/300] completed. Avg Train Loss: 0.0063, Accuracy: 99.75%
+2024-07-10 01:23:30,336 - Epoch [113/300] completed. Avg Test Loss: 4.9388, Test Accuracy: 58.20%
+2024-07-10 01:23:30,336 - Starting epoch 114/300
+2024-07-10 01:23:34,657 - Epoch [114/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:23:39,174 - Epoch [114/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:23:43,566 - Epoch [114/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:23:47,006 - Epoch [114/300] completed. Avg Train Loss: 0.0028, Accuracy: 99.88%
+2024-07-10 01:23:50,191 - Epoch [114/300] completed. Avg Test Loss: 4.0634, Test Accuracy: 59.40%
+2024-07-10 01:23:50,191 - Starting epoch 115/300
+2024-07-10 01:23:54,660 - Epoch [115/300], Step [10/38], Loss: 0.0551
+2024-07-10 01:23:59,339 - Epoch [115/300], Step [20/38], Loss: 0.0167
+2024-07-10 01:24:03,704 - Epoch [115/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:24:07,052 - Epoch [115/300] completed. Avg Train Loss: 0.0068, Accuracy: 99.75%
+2024-07-10 01:24:10,176 - Epoch [115/300] completed. Avg Test Loss: 5.2058, Test Accuracy: 53.20%
+2024-07-10 01:24:10,176 - Starting epoch 116/300
+2024-07-10 01:24:14,355 - Epoch [116/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:24:18,569 - Epoch [116/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:24:23,424 - Epoch [116/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:24:26,433 - Epoch [116/300] completed. Avg Train Loss: 0.0041, Accuracy: 99.88%
+2024-07-10 01:24:29,540 - Epoch [116/300] completed. Avg Test Loss: 4.2218, Test Accuracy: 63.40%
+2024-07-10 01:24:29,540 - Starting epoch 117/300
+2024-07-10 01:24:33,624 - Epoch [117/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:24:38,292 - Epoch [117/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:24:42,835 - Epoch [117/300], Step [30/38], Loss: 0.0144
+2024-07-10 01:24:45,822 - Epoch [117/300] completed. Avg Train Loss: 0.0084, Accuracy: 99.75%
+2024-07-10 01:24:49,071 - Epoch [117/300] completed. Avg Test Loss: 4.6123, Test Accuracy: 61.60%
+2024-07-10 01:24:49,072 - Starting epoch 118/300
+2024-07-10 01:24:53,388 - Epoch [118/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:24:57,549 - Epoch [118/300], Step [20/38], Loss: 0.0194
+2024-07-10 01:25:01,977 - Epoch [118/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:25:05,038 - Epoch [118/300] completed. Avg Train Loss: 0.0336, Accuracy: 99.25%
+2024-07-10 01:25:08,223 - Epoch [118/300] completed. Avg Test Loss: 7.1107, Test Accuracy: 56.00%
+2024-07-10 01:25:08,223 - Starting epoch 119/300
+2024-07-10 01:25:12,553 - Epoch [119/300], Step [10/38], Loss: 0.0065
+2024-07-10 01:25:16,847 - Epoch [119/300], Step [20/38], Loss: 0.0613
+2024-07-10 01:25:21,122 - Epoch [119/300], Step [30/38], Loss: 0.0005
+2024-07-10 01:25:24,104 - Epoch [119/300] completed. Avg Train Loss: 0.0864, Accuracy: 98.50%
+2024-07-10 01:25:27,097 - Epoch [119/300] completed. Avg Test Loss: 4.9696, Test Accuracy: 56.60%
+2024-07-10 01:25:27,097 - Starting epoch 120/300
+2024-07-10 01:25:31,255 - Epoch [120/300], Step [10/38], Loss: 0.0009
+2024-07-10 01:25:35,785 - Epoch [120/300], Step [20/38], Loss: 0.0090
+2024-07-10 01:25:39,745 - Epoch [120/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:25:43,230 - Epoch [120/300] completed. Avg Train Loss: 0.0238, Accuracy: 99.21%
+2024-07-10 01:25:46,282 - Epoch [120/300] completed. Avg Test Loss: 4.0353, Test Accuracy: 61.20%
+2024-07-10 01:25:46,282 - Starting epoch 121/300
+2024-07-10 01:25:50,394 - Epoch [121/300], Step [10/38], Loss: 0.1065
+2024-07-10 01:25:54,839 - Epoch [121/300], Step [20/38], Loss: 0.0011
+2024-07-10 01:25:59,160 - Epoch [121/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:26:02,388 - Epoch [121/300] completed. Avg Train Loss: 0.0103, Accuracy: 99.67%
+2024-07-10 01:26:05,459 - Epoch [121/300] completed. Avg Test Loss: 5.1966, Test Accuracy: 59.60%
+2024-07-10 01:26:05,459 - Starting epoch 122/300
+2024-07-10 01:26:09,973 - Epoch [122/300], Step [10/38], Loss: 0.0033
+2024-07-10 01:26:15,051 - Epoch [122/300], Step [20/38], Loss: 0.0021
+2024-07-10 01:26:19,493 - Epoch [122/300], Step [30/38], Loss: 0.0247
+2024-07-10 01:26:22,778 - Epoch [122/300] completed. Avg Train Loss: 0.0517, Accuracy: 98.79%
+2024-07-10 01:26:25,889 - Epoch [122/300] completed. Avg Test Loss: 7.2021, Test Accuracy: 53.40%
+2024-07-10 01:26:25,890 - Starting epoch 123/300
+2024-07-10 01:26:29,943 - Epoch [123/300], Step [10/38], Loss: 0.2681
+2024-07-10 01:26:34,178 - Epoch [123/300], Step [20/38], Loss: 0.0011
+2024-07-10 01:26:37,545 - Epoch [123/300], Step [30/38], Loss: 0.0032
+2024-07-10 01:26:40,815 - Epoch [123/300] completed. Avg Train Loss: 0.0556, Accuracy: 98.33%
+2024-07-10 01:26:43,705 - Epoch [123/300] completed. Avg Test Loss: 6.3505, Test Accuracy: 49.60%
+2024-07-10 01:26:43,706 - Starting epoch 124/300
+2024-07-10 01:26:48,131 - Epoch [124/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:26:52,121 - Epoch [124/300], Step [20/38], Loss: 0.0015
+2024-07-10 01:26:56,349 - Epoch [124/300], Step [30/38], Loss: 0.0114
+2024-07-10 01:26:59,540 - Epoch [124/300] completed. Avg Train Loss: 0.0266, Accuracy: 99.38%
+2024-07-10 01:27:02,489 - Epoch [124/300] completed. Avg Test Loss: 6.1574, Test Accuracy: 52.20%
+2024-07-10 01:27:02,490 - Starting epoch 125/300
+2024-07-10 01:27:06,545 - Epoch [125/300], Step [10/38], Loss: 0.1159
+2024-07-10 01:27:11,028 - Epoch [125/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:27:15,442 - Epoch [125/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:27:18,879 - Epoch [125/300] completed. Avg Train Loss: 0.0260, Accuracy: 99.21%
+2024-07-10 01:27:22,214 - Epoch [125/300] completed. Avg Test Loss: 3.1439, Test Accuracy: 67.80%
+2024-07-10 01:27:22,214 - Starting epoch 126/300
+2024-07-10 01:27:26,403 - Epoch [126/300], Step [10/38], Loss: 0.0018
+2024-07-10 01:27:31,017 - Epoch [126/300], Step [20/38], Loss: 0.0761
+2024-07-10 01:27:35,165 - Epoch [126/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:27:38,554 - Epoch [126/300] completed. Avg Train Loss: 0.0201, Accuracy: 99.58%
+2024-07-10 01:27:41,718 - Epoch [126/300] completed. Avg Test Loss: 4.0529, Test Accuracy: 60.80%
+2024-07-10 01:27:41,718 - Starting epoch 127/300
+2024-07-10 01:27:46,297 - Epoch [127/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:27:50,730 - Epoch [127/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:27:55,022 - Epoch [127/300], Step [30/38], Loss: 0.0066
+2024-07-10 01:27:57,993 - Epoch [127/300] completed. Avg Train Loss: 0.0123, Accuracy: 99.54%
+2024-07-10 01:28:01,035 - Epoch [127/300] completed. Avg Test Loss: 4.5918, Test Accuracy: 57.60%
+2024-07-10 01:28:01,035 - Starting epoch 128/300
+2024-07-10 01:28:05,085 - Epoch [128/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:28:09,386 - Epoch [128/300], Step [20/38], Loss: 0.0775
+2024-07-10 01:28:13,574 - Epoch [128/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:28:16,693 - Epoch [128/300] completed. Avg Train Loss: 0.0096, Accuracy: 99.75%
+2024-07-10 01:28:19,802 - Epoch [128/300] completed. Avg Test Loss: 4.7932, Test Accuracy: 54.80%
+2024-07-10 01:28:19,802 - Starting epoch 129/300
+2024-07-10 01:28:23,927 - Epoch [129/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:28:28,498 - Epoch [129/300], Step [20/38], Loss: 0.0036
+2024-07-10 01:28:32,420 - Epoch [129/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:28:35,940 - Epoch [129/300] completed. Avg Train Loss: 0.0182, Accuracy: 99.46%
+2024-07-10 01:28:39,033 - Epoch [129/300] completed. Avg Test Loss: 4.3737, Test Accuracy: 58.40%
+2024-07-10 01:28:39,033 - Starting epoch 130/300
+2024-07-10 01:28:42,906 - Epoch [130/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:28:47,155 - Epoch [130/300], Step [20/38], Loss: 0.0009
+2024-07-10 01:28:51,135 - Epoch [130/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:28:54,236 - Epoch [130/300] completed. Avg Train Loss: 0.0011, Accuracy: 99.92%
+2024-07-10 01:28:57,205 - Epoch [130/300] completed. Avg Test Loss: 4.5844, Test Accuracy: 59.20%
+2024-07-10 01:28:57,206 - Starting epoch 131/300
+2024-07-10 01:29:01,061 - Epoch [131/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:29:05,472 - Epoch [131/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:29:09,428 - Epoch [131/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:29:12,918 - Epoch [131/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:29:16,085 - Epoch [131/300] completed. Avg Test Loss: 4.7575, Test Accuracy: 55.60%
+2024-07-10 01:29:16,085 - Starting epoch 132/300
+2024-07-10 01:29:20,305 - Epoch [132/300], Step [10/38], Loss: 0.0012
+2024-07-10 01:29:24,313 - Epoch [132/300], Step [20/38], Loss: 0.0002
+2024-07-10 01:29:28,262 - Epoch [132/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:29:31,537 - Epoch [132/300] completed. Avg Train Loss: 0.0006, Accuracy: 99.96%
+2024-07-10 01:29:34,605 - Epoch [132/300] completed. Avg Test Loss: 4.7930, Test Accuracy: 57.00%
+2024-07-10 01:29:34,605 - Starting epoch 133/300
+2024-07-10 01:29:38,839 - Epoch [133/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:29:42,931 - Epoch [133/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:29:46,803 - Epoch [133/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:29:50,073 - Epoch [133/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:29:52,989 - Epoch [133/300] completed. Avg Test Loss: 4.6513, Test Accuracy: 57.80%
+2024-07-10 01:29:52,989 - Starting epoch 134/300
+2024-07-10 01:29:56,811 - Epoch [134/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:30:00,999 - Epoch [134/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:30:05,065 - Epoch [134/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:30:08,195 - Epoch [134/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:30:11,056 - Epoch [134/300] completed. Avg Test Loss: 4.6318, Test Accuracy: 57.60%
+2024-07-10 01:30:11,056 - Starting epoch 135/300
+2024-07-10 01:30:15,007 - Epoch [135/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:30:19,503 - Epoch [135/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:30:23,542 - Epoch [135/300], Step [30/38], Loss: 0.0005
+2024-07-10 01:30:26,503 - Epoch [135/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:30:29,022 - Epoch [135/300] completed. Avg Test Loss: 4.5530, Test Accuracy: 58.20%
+2024-07-10 01:30:29,022 - Starting epoch 136/300
+2024-07-10 01:30:32,859 - Epoch [136/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:30:37,143 - Epoch [136/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:30:41,159 - Epoch [136/300], Step [30/38], Loss: 0.0200
+2024-07-10 01:30:44,550 - Epoch [136/300] completed. Avg Train Loss: 0.0013, Accuracy: 99.92%
+2024-07-10 01:30:47,482 - Epoch [136/300] completed. Avg Test Loss: 3.7650, Test Accuracy: 62.00%
+2024-07-10 01:30:47,482 - Starting epoch 137/300
+2024-07-10 01:30:51,740 - Epoch [137/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:30:55,776 - Epoch [137/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:31:00,114 - Epoch [137/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:31:02,792 - Epoch [137/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:31:05,605 - Epoch [137/300] completed. Avg Test Loss: 3.8902, Test Accuracy: 58.00%
+2024-07-10 01:31:05,605 - Starting epoch 138/300
+2024-07-10 01:31:09,293 - Epoch [138/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:31:13,425 - Epoch [138/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:31:17,638 - Epoch [138/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:31:20,386 - Epoch [138/300] completed. Avg Train Loss: 0.0010, Accuracy: 99.96%
+2024-07-10 01:31:23,172 - Epoch [138/300] completed. Avg Test Loss: 3.7302, Test Accuracy: 60.40%
+2024-07-10 01:31:23,172 - Starting epoch 139/300
+2024-07-10 01:31:27,327 - Epoch [139/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:31:31,281 - Epoch [139/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:31:34,899 - Epoch [139/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:31:38,043 - Epoch [139/300] completed. Avg Train Loss: 0.0006, Accuracy: 99.96%
+2024-07-10 01:31:41,045 - Epoch [139/300] completed. Avg Test Loss: 4.1611, Test Accuracy: 59.00%
+2024-07-10 01:31:41,045 - Starting epoch 140/300
+2024-07-10 01:31:45,060 - Epoch [140/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:31:49,209 - Epoch [140/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:31:53,612 - Epoch [140/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:31:56,529 - Epoch [140/300] completed. Avg Train Loss: 0.0004, Accuracy: 100.00%
+2024-07-10 01:31:59,491 - Epoch [140/300] completed. Avg Test Loss: 5.4787, Test Accuracy: 54.00%
+2024-07-10 01:31:59,491 - Starting epoch 141/300
+2024-07-10 01:32:03,477 - Epoch [141/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:32:07,881 - Epoch [141/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:32:12,126 - Epoch [141/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:32:14,904 - Epoch [141/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:32:17,868 - Epoch [141/300] completed. Avg Test Loss: 4.9466, Test Accuracy: 54.00%
+2024-07-10 01:32:17,868 - Starting epoch 142/300
+2024-07-10 01:32:22,119 - Epoch [142/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:32:26,328 - Epoch [142/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:32:30,526 - Epoch [142/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:32:33,584 - Epoch [142/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:32:36,730 - Epoch [142/300] completed. Avg Test Loss: 4.7477, Test Accuracy: 55.80%
+2024-07-10 01:32:36,730 - Starting epoch 143/300
+2024-07-10 01:32:40,794 - Epoch [143/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:32:45,033 - Epoch [143/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:32:49,228 - Epoch [143/300], Step [30/38], Loss: 0.0419
+2024-07-10 01:32:52,294 - Epoch [143/300] completed. Avg Train Loss: 0.0037, Accuracy: 99.79%
+2024-07-10 01:32:55,298 - Epoch [143/300] completed. Avg Test Loss: 3.6187, Test Accuracy: 64.00%
+2024-07-10 01:32:55,298 - Starting epoch 144/300
+2024-07-10 01:32:59,172 - Epoch [144/300], Step [10/38], Loss: 0.1330
+2024-07-10 01:33:03,436 - Epoch [144/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:33:07,650 - Epoch [144/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:33:10,460 - Epoch [144/300] completed. Avg Train Loss: 0.0194, Accuracy: 99.67%
+2024-07-10 01:33:13,519 - Epoch [144/300] completed. Avg Test Loss: 4.4443, Test Accuracy: 54.00%
+2024-07-10 01:33:13,519 - Starting epoch 145/300
+2024-07-10 01:33:17,709 - Epoch [145/300], Step [10/38], Loss: 0.0003
+2024-07-10 01:33:21,812 - Epoch [145/300], Step [20/38], Loss: 0.0042
+2024-07-10 01:33:25,656 - Epoch [145/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:33:28,957 - Epoch [145/300] completed. Avg Train Loss: 0.0041, Accuracy: 99.88%
+2024-07-10 01:33:31,891 - Epoch [145/300] completed. Avg Test Loss: 3.9881, Test Accuracy: 55.20%
+2024-07-10 01:33:31,891 - Starting epoch 146/300
+2024-07-10 01:33:35,785 - Epoch [146/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:33:40,081 - Epoch [146/300], Step [20/38], Loss: 0.0002
+2024-07-10 01:33:44,101 - Epoch [146/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:33:47,202 - Epoch [146/300] completed. Avg Train Loss: 0.0013, Accuracy: 99.92%
+2024-07-10 01:33:50,385 - Epoch [146/300] completed. Avg Test Loss: 3.8391, Test Accuracy: 58.80%
+2024-07-10 01:33:50,385 - Starting epoch 147/300
+2024-07-10 01:33:54,282 - Epoch [147/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:33:58,630 - Epoch [147/300], Step [20/38], Loss: 0.2373
+2024-07-10 01:34:02,578 - Epoch [147/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:34:05,859 - Epoch [147/300] completed. Avg Train Loss: 0.0196, Accuracy: 99.54%
+2024-07-10 01:34:08,673 - Epoch [147/300] completed. Avg Test Loss: 3.5712, Test Accuracy: 59.60%
+2024-07-10 01:34:08,673 - Starting epoch 148/300
+2024-07-10 01:34:12,790 - Epoch [148/300], Step [10/38], Loss: 0.0930
+2024-07-10 01:34:17,037 - Epoch [148/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:34:20,913 - Epoch [148/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:34:24,133 - Epoch [148/300] completed. Avg Train Loss: 0.0238, Accuracy: 99.33%
+2024-07-10 01:34:27,017 - Epoch [148/300] completed. Avg Test Loss: 3.8781, Test Accuracy: 60.40%
+2024-07-10 01:34:27,017 - Starting epoch 149/300
+2024-07-10 01:34:31,173 - Epoch [149/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:34:35,503 - Epoch [149/300], Step [20/38], Loss: 0.0003
+2024-07-10 01:34:39,449 - Epoch [149/300], Step [30/38], Loss: 0.0010
+2024-07-10 01:34:42,794 - Epoch [149/300] completed. Avg Train Loss: 0.0095, Accuracy: 99.71%
+2024-07-10 01:34:45,906 - Epoch [149/300] completed. Avg Test Loss: 4.8200, Test Accuracy: 59.60%
+2024-07-10 01:34:45,906 - Starting epoch 150/300
+2024-07-10 01:34:49,984 - Epoch [150/300], Step [10/38], Loss: 0.0012
+2024-07-10 01:34:54,031 - Epoch [150/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:34:58,431 - Epoch [150/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:35:01,300 - Epoch [150/300] completed. Avg Train Loss: 0.0272, Accuracy: 99.29%
+2024-07-10 01:35:04,338 - Epoch [150/300] completed. Avg Test Loss: 3.3346, Test Accuracy: 67.20%
+2024-07-10 01:35:04,338 - Starting epoch 151/300
+2024-07-10 01:35:08,295 - Epoch [151/300], Step [10/38], Loss: 0.0203
+2024-07-10 01:35:12,745 - Epoch [151/300], Step [20/38], Loss: 0.0401
+2024-07-10 01:35:16,883 - Epoch [151/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:35:19,897 - Epoch [151/300] completed. Avg Train Loss: 0.0190, Accuracy: 99.38%
+2024-07-10 01:35:22,909 - Epoch [151/300] completed. Avg Test Loss: 5.3854, Test Accuracy: 53.80%
+2024-07-10 01:35:22,909 - Starting epoch 152/300
+2024-07-10 01:35:26,827 - Epoch [152/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:35:31,135 - Epoch [152/300], Step [20/38], Loss: 0.0008
+2024-07-10 01:35:35,117 - Epoch [152/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:35:38,310 - Epoch [152/300] completed. Avg Train Loss: 0.0082, Accuracy: 99.75%
+2024-07-10 01:35:41,152 - Epoch [152/300] completed. Avg Test Loss: 3.8573, Test Accuracy: 59.60%
+2024-07-10 01:35:41,153 - Starting epoch 153/300
+2024-07-10 01:35:45,254 - Epoch [153/300], Step [10/38], Loss: 0.0031
+2024-07-10 01:35:49,233 - Epoch [153/300], Step [20/38], Loss: 0.1296
+2024-07-10 01:35:53,655 - Epoch [153/300], Step [30/38], Loss: 0.0022
+2024-07-10 01:35:57,200 - Epoch [153/300] completed. Avg Train Loss: 0.0172, Accuracy: 99.42%
+2024-07-10 01:36:00,214 - Epoch [153/300] completed. Avg Test Loss: 3.3832, Test Accuracy: 66.40%
+2024-07-10 01:36:00,214 - Starting epoch 154/300
+2024-07-10 01:36:03,989 - Epoch [154/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:36:07,663 - Epoch [154/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:36:11,401 - Epoch [154/300], Step [30/38], Loss: 0.0017
+2024-07-10 01:36:14,153 - Epoch [154/300] completed. Avg Train Loss: 0.0101, Accuracy: 99.62%
+2024-07-10 01:36:16,801 - Epoch [154/300] completed. Avg Test Loss: 4.0574, Test Accuracy: 58.80%
+2024-07-10 01:36:16,801 - Starting epoch 155/300
+2024-07-10 01:36:20,324 - Epoch [155/300], Step [10/38], Loss: 0.0133
+2024-07-10 01:36:23,963 - Epoch [155/300], Step [20/38], Loss: 0.0016
+2024-07-10 01:36:27,372 - Epoch [155/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:36:30,194 - Epoch [155/300] completed. Avg Train Loss: 0.0064, Accuracy: 99.67%
+2024-07-10 01:36:33,043 - Epoch [155/300] completed. Avg Test Loss: 4.1948, Test Accuracy: 57.60%
+2024-07-10 01:36:33,043 - Starting epoch 156/300
+2024-07-10 01:36:36,549 - Epoch [156/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:36:40,304 - Epoch [156/300], Step [20/38], Loss: 0.0008
+2024-07-10 01:36:43,630 - Epoch [156/300], Step [30/38], Loss: 0.0013
+2024-07-10 01:36:46,438 - Epoch [156/300] completed. Avg Train Loss: 0.0094, Accuracy: 99.83%
+2024-07-10 01:36:48,994 - Epoch [156/300] completed. Avg Test Loss: 3.0435, Test Accuracy: 67.20%
+2024-07-10 01:36:48,994 - Starting epoch 157/300
+2024-07-10 01:36:52,459 - Epoch [157/300], Step [10/38], Loss: 0.0133
+2024-07-10 01:36:55,871 - Epoch [157/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:36:59,467 - Epoch [157/300], Step [30/38], Loss: 0.0012
+2024-07-10 01:37:02,221 - Epoch [157/300] completed. Avg Train Loss: 0.0188, Accuracy: 99.38%
+2024-07-10 01:37:04,619 - Epoch [157/300] completed. Avg Test Loss: 3.6787, Test Accuracy: 58.60%
+2024-07-10 01:37:04,619 - Starting epoch 158/300
+2024-07-10 01:37:08,359 - Epoch [158/300], Step [10/38], Loss: 0.0797
+2024-07-10 01:37:11,739 - Epoch [158/300], Step [20/38], Loss: 0.0003
+2024-07-10 01:37:15,190 - Epoch [158/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:37:17,782 - Epoch [158/300] completed. Avg Train Loss: 0.0094, Accuracy: 99.75%
+2024-07-10 01:37:20,280 - Epoch [158/300] completed. Avg Test Loss: 3.6878, Test Accuracy: 65.40%
+2024-07-10 01:37:20,280 - Starting epoch 159/300
+2024-07-10 01:37:23,549 - Epoch [159/300], Step [10/38], Loss: 0.0684
+2024-07-10 01:37:27,075 - Epoch [159/300], Step [20/38], Loss: 0.0060
+2024-07-10 01:37:31,016 - Epoch [159/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:37:33,383 - Epoch [159/300] completed. Avg Train Loss: 0.0257, Accuracy: 99.38%
+2024-07-10 01:37:35,771 - Epoch [159/300] completed. Avg Test Loss: 4.3571, Test Accuracy: 62.80%
+2024-07-10 01:37:35,772 - Starting epoch 160/300
+2024-07-10 01:37:39,317 - Epoch [160/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:37:42,807 - Epoch [160/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:37:46,104 - Epoch [160/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:37:48,732 - Epoch [160/300] completed. Avg Train Loss: 0.0130, Accuracy: 99.67%
+2024-07-10 01:37:51,240 - Epoch [160/300] completed. Avg Test Loss: 3.9847, Test Accuracy: 59.60%
+2024-07-10 01:37:51,240 - Starting epoch 161/300
+2024-07-10 01:37:54,824 - Epoch [161/300], Step [10/38], Loss: 0.0011
+2024-07-10 01:37:58,183 - Epoch [161/300], Step [20/38], Loss: 0.0013
+2024-07-10 01:38:01,723 - Epoch [161/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:38:04,490 - Epoch [161/300] completed. Avg Train Loss: 0.0183, Accuracy: 99.42%
+2024-07-10 01:38:06,923 - Epoch [161/300] completed. Avg Test Loss: 6.4424, Test Accuracy: 50.60%
+2024-07-10 01:38:06,923 - Starting epoch 162/300
+2024-07-10 01:38:10,385 - Epoch [162/300], Step [10/38], Loss: 0.0007
+2024-07-10 01:38:13,898 - Epoch [162/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:38:17,158 - Epoch [162/300], Step [30/38], Loss: 0.0029
+2024-07-10 01:38:20,011 - Epoch [162/300] completed. Avg Train Loss: 0.0231, Accuracy: 99.58%
+2024-07-10 01:38:22,567 - Epoch [162/300] completed. Avg Test Loss: 3.3334, Test Accuracy: 61.80%
+2024-07-10 01:38:22,567 - Starting epoch 163/300
+2024-07-10 01:38:26,401 - Epoch [163/300], Step [10/38], Loss: 0.0414
+2024-07-10 01:38:29,584 - Epoch [163/300], Step [20/38], Loss: 0.0057
+2024-07-10 01:38:33,406 - Epoch [163/300], Step [30/38], Loss: 0.0005
+2024-07-10 01:38:35,944 - Epoch [163/300] completed. Avg Train Loss: 0.0070, Accuracy: 99.71%
+2024-07-10 01:38:38,480 - Epoch [163/300] completed. Avg Test Loss: 3.8493, Test Accuracy: 60.80%
+2024-07-10 01:38:38,480 - Starting epoch 164/300
+2024-07-10 01:38:41,761 - Epoch [164/300], Step [10/38], Loss: 0.0017
+2024-07-10 01:38:45,317 - Epoch [164/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:38:48,568 - Epoch [164/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:38:51,324 - Epoch [164/300] completed. Avg Train Loss: 0.0034, Accuracy: 99.88%
+2024-07-10 01:38:53,866 - Epoch [164/300] completed. Avg Test Loss: 2.7784, Test Accuracy: 65.40%
+2024-07-10 01:38:53,867 - Starting epoch 165/300
+2024-07-10 01:38:57,144 - Epoch [165/300], Step [10/38], Loss: 0.0012
+2024-07-10 01:39:00,546 - Epoch [165/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:39:03,957 - Epoch [165/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:39:06,410 - Epoch [165/300] completed. Avg Train Loss: 0.0100, Accuracy: 99.75%
+2024-07-10 01:39:08,853 - Epoch [165/300] completed. Avg Test Loss: 4.3480, Test Accuracy: 56.20%
+2024-07-10 01:39:08,853 - Starting epoch 166/300
+2024-07-10 01:39:12,295 - Epoch [166/300], Step [10/38], Loss: 0.0026
+2024-07-10 01:39:15,713 - Epoch [166/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:39:18,996 - Epoch [166/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:39:21,788 - Epoch [166/300] completed. Avg Train Loss: 0.0089, Accuracy: 99.75%
+2024-07-10 01:39:24,098 - Epoch [166/300] completed. Avg Test Loss: 4.2716, Test Accuracy: 57.20%
+2024-07-10 01:39:24,098 - Starting epoch 167/300
+2024-07-10 01:39:27,683 - Epoch [167/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:39:30,886 - Epoch [167/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:39:34,513 - Epoch [167/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:39:36,850 - Epoch [167/300] completed. Avg Train Loss: 0.0033, Accuracy: 99.88%
+2024-07-10 01:39:39,269 - Epoch [167/300] completed. Avg Test Loss: 2.4397, Test Accuracy: 67.60%
+2024-07-10 01:39:39,269 - Starting epoch 168/300
+2024-07-10 01:39:42,703 - Epoch [168/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:39:45,982 - Epoch [168/300], Step [20/38], Loss: 0.0009
+2024-07-10 01:39:49,538 - Epoch [168/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:39:51,911 - Epoch [168/300] completed. Avg Train Loss: 0.0019, Accuracy: 99.88%
+2024-07-10 01:39:54,356 - Epoch [168/300] completed. Avg Test Loss: 3.3356, Test Accuracy: 61.80%
+2024-07-10 01:39:54,356 - Starting epoch 169/300
+2024-07-10 01:39:57,863 - Epoch [169/300], Step [10/38], Loss: 0.0019
+2024-07-10 01:40:01,311 - Epoch [169/300], Step [20/38], Loss: 0.0002
+2024-07-10 01:40:04,535 - Epoch [169/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:40:07,138 - Epoch [169/300] completed. Avg Train Loss: 0.0021, Accuracy: 99.92%
+2024-07-10 01:40:09,650 - Epoch [169/300] completed. Avg Test Loss: 3.1982, Test Accuracy: 61.80%
+2024-07-10 01:40:09,650 - Starting epoch 170/300
+2024-07-10 01:40:12,938 - Epoch [170/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:40:16,516 - Epoch [170/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:40:19,902 - Epoch [170/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:40:22,317 - Epoch [170/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:40:24,824 - Epoch [170/300] completed. Avg Test Loss: 3.4867, Test Accuracy: 62.00%
+2024-07-10 01:40:24,824 - Starting epoch 171/300
+2024-07-10 01:40:28,273 - Epoch [171/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:40:31,424 - Epoch [171/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:40:35,110 - Epoch [171/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:40:37,394 - Epoch [171/300] completed. Avg Train Loss: 0.0019, Accuracy: 99.92%
+2024-07-10 01:40:39,751 - Epoch [171/300] completed. Avg Test Loss: 4.0488, Test Accuracy: 61.00%
+2024-07-10 01:40:39,751 - Starting epoch 172/300
+2024-07-10 01:40:43,246 - Epoch [172/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:40:46,571 - Epoch [172/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:40:49,955 - Epoch [172/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:40:52,515 - Epoch [172/300] completed. Avg Train Loss: 0.0056, Accuracy: 99.92%
+2024-07-10 01:40:54,985 - Epoch [172/300] completed. Avg Test Loss: 4.7574, Test Accuracy: 59.60%
+2024-07-10 01:40:54,985 - Starting epoch 173/300
+2024-07-10 01:40:58,444 - Epoch [173/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:41:02,081 - Epoch [173/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:41:05,157 - Epoch [173/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:41:07,919 - Epoch [173/300] completed. Avg Train Loss: 0.0012, Accuracy: 99.96%
+2024-07-10 01:41:10,481 - Epoch [173/300] completed. Avg Test Loss: 3.5093, Test Accuracy: 61.40%
+2024-07-10 01:41:10,481 - Starting epoch 174/300
+2024-07-10 01:41:13,753 - Epoch [174/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:41:17,084 - Epoch [174/300], Step [20/38], Loss: 0.0009
+2024-07-10 01:41:20,738 - Epoch [174/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:41:23,022 - Epoch [174/300] completed. Avg Train Loss: 0.0054, Accuracy: 99.79%
+2024-07-10 01:41:25,396 - Epoch [174/300] completed. Avg Test Loss: 3.4553, Test Accuracy: 61.60%
+2024-07-10 01:41:25,396 - Starting epoch 175/300
+2024-07-10 01:41:29,408 - Epoch [175/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:41:32,671 - Epoch [175/300], Step [20/38], Loss: 0.0007
+2024-07-10 01:41:36,482 - Epoch [175/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:41:39,123 - Epoch [175/300] completed. Avg Train Loss: 0.0037, Accuracy: 99.88%
+2024-07-10 01:41:41,575 - Epoch [175/300] completed. Avg Test Loss: 4.8236, Test Accuracy: 56.80%
+2024-07-10 01:41:41,575 - Starting epoch 176/300
+2024-07-10 01:41:45,289 - Epoch [176/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:41:48,841 - Epoch [176/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:41:52,320 - Epoch [176/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:41:54,986 - Epoch [176/300] completed. Avg Train Loss: 0.0028, Accuracy: 99.96%
+2024-07-10 01:41:57,598 - Epoch [176/300] completed. Avg Test Loss: 3.9728, Test Accuracy: 58.00%
+2024-07-10 01:41:57,598 - Starting epoch 177/300
+2024-07-10 01:42:01,026 - Epoch [177/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:42:04,879 - Epoch [177/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:42:08,231 - Epoch [177/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:42:10,856 - Epoch [177/300] completed. Avg Train Loss: 0.0024, Accuracy: 99.88%
+2024-07-10 01:42:13,533 - Epoch [177/300] completed. Avg Test Loss: 4.2722, Test Accuracy: 58.60%
+2024-07-10 01:42:13,533 - Starting epoch 178/300
+2024-07-10 01:42:17,123 - Epoch [178/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:42:20,985 - Epoch [178/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:42:25,193 - Epoch [178/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:42:27,821 - Epoch [178/300] completed. Avg Train Loss: 0.0114, Accuracy: 99.62%
+2024-07-10 01:42:30,410 - Epoch [178/300] completed. Avg Test Loss: 3.5673, Test Accuracy: 55.00%
+2024-07-10 01:42:30,410 - Starting epoch 179/300
+2024-07-10 01:42:33,919 - Epoch [179/300], Step [10/38], Loss: 0.0326
+2024-07-10 01:42:37,718 - Epoch [179/300], Step [20/38], Loss: 0.0132
+2024-07-10 01:42:41,430 - Epoch [179/300], Step [30/38], Loss: 0.0032
+2024-07-10 01:42:44,183 - Epoch [179/300] completed. Avg Train Loss: 0.0100, Accuracy: 99.75%
+2024-07-10 01:42:46,848 - Epoch [179/300] completed. Avg Test Loss: 3.6543, Test Accuracy: 58.80%
+2024-07-10 01:42:46,848 - Starting epoch 180/300
+2024-07-10 01:42:50,331 - Epoch [180/300], Step [10/38], Loss: 0.0152
+2024-07-10 01:42:54,266 - Epoch [180/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:42:57,826 - Epoch [180/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:43:00,340 - Epoch [180/300] completed. Avg Train Loss: 0.0007, Accuracy: 100.00%
+2024-07-10 01:43:02,956 - Epoch [180/300] completed. Avg Test Loss: 3.7933, Test Accuracy: 61.60%
+2024-07-10 01:43:02,956 - Starting epoch 181/300
+2024-07-10 01:43:06,316 - Epoch [181/300], Step [10/38], Loss: 0.0021
+2024-07-10 01:43:10,020 - Epoch [181/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:43:13,364 - Epoch [181/300], Step [30/38], Loss: 0.0006
+2024-07-10 01:43:15,872 - Epoch [181/300] completed. Avg Train Loss: 0.0010, Accuracy: 99.96%
+2024-07-10 01:43:18,442 - Epoch [181/300] completed. Avg Test Loss: 3.0201, Test Accuracy: 63.60%
+2024-07-10 01:43:18,442 - Starting epoch 182/300
+2024-07-10 01:43:21,980 - Epoch [182/300], Step [10/38], Loss: 0.0308
+2024-07-10 01:43:25,532 - Epoch [182/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:43:29,692 - Epoch [182/300], Step [30/38], Loss: 0.0271
+2024-07-10 01:43:32,003 - Epoch [182/300] completed. Avg Train Loss: 0.0024, Accuracy: 99.92%
+2024-07-10 01:43:34,444 - Epoch [182/300] completed. Avg Test Loss: 2.3153, Test Accuracy: 69.40%
+2024-07-10 01:43:34,444 - Starting epoch 183/300
+2024-07-10 01:43:38,015 - Epoch [183/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:43:41,685 - Epoch [183/300], Step [20/38], Loss: 0.0020
+2024-07-10 01:43:45,212 - Epoch [183/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:43:47,672 - Epoch [183/300] completed. Avg Train Loss: 0.0028, Accuracy: 99.92%
+2024-07-10 01:43:50,263 - Epoch [183/300] completed. Avg Test Loss: 4.2649, Test Accuracy: 58.80%
+2024-07-10 01:43:50,263 - Starting epoch 184/300
+2024-07-10 01:43:53,801 - Epoch [184/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:43:57,641 - Epoch [184/300], Step [20/38], Loss: 0.0016
+2024-07-10 01:44:01,243 - Epoch [184/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:44:04,118 - Epoch [184/300] completed. Avg Train Loss: 0.0030, Accuracy: 99.92%
+2024-07-10 01:44:06,838 - Epoch [184/300] completed. Avg Test Loss: 3.0908, Test Accuracy: 66.20%
+2024-07-10 01:44:06,838 - Starting epoch 185/300
+2024-07-10 01:44:10,564 - Epoch [185/300], Step [10/38], Loss: 0.0005
+2024-07-10 01:44:14,486 - Epoch [185/300], Step [20/38], Loss: 0.0013
+2024-07-10 01:44:17,870 - Epoch [185/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:44:20,987 - Epoch [185/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:44:23,759 - Epoch [185/300] completed. Avg Test Loss: 2.7053, Test Accuracy: 66.40%
+2024-07-10 01:44:23,759 - Starting epoch 186/300
+2024-07-10 01:44:27,384 - Epoch [186/300], Step [10/38], Loss: 0.0096
+2024-07-10 01:44:31,508 - Epoch [186/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:44:34,845 - Epoch [186/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:44:37,981 - Epoch [186/300] completed. Avg Train Loss: 0.0005, Accuracy: 100.00%
+2024-07-10 01:44:40,831 - Epoch [186/300] completed. Avg Test Loss: 2.3092, Test Accuracy: 66.00%
+2024-07-10 01:44:40,831 - Starting epoch 187/300
+2024-07-10 01:44:44,418 - Epoch [187/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:44:48,332 - Epoch [187/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:44:51,742 - Epoch [187/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:44:54,854 - Epoch [187/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:44:57,442 - Epoch [187/300] completed. Avg Test Loss: 2.2213, Test Accuracy: 67.20%
+2024-07-10 01:44:57,442 - Starting epoch 188/300
+2024-07-10 01:45:00,768 - Epoch [188/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:45:04,404 - Epoch [188/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:45:07,867 - Epoch [188/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:45:10,716 - Epoch [188/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:45:13,206 - Epoch [188/300] completed. Avg Test Loss: 2.1543, Test Accuracy: 67.40%
+2024-07-10 01:45:13,206 - Starting epoch 189/300
+2024-07-10 01:45:16,546 - Epoch [189/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:45:20,115 - Epoch [189/300], Step [20/38], Loss: 0.0002
+2024-07-10 01:45:23,470 - Epoch [189/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:45:26,327 - Epoch [189/300] completed. Avg Train Loss: 0.0005, Accuracy: 99.96%
+2024-07-10 01:45:28,750 - Epoch [189/300] completed. Avg Test Loss: 2.2317, Test Accuracy: 66.80%
+2024-07-10 01:45:28,750 - Starting epoch 190/300
+2024-07-10 01:45:32,114 - Epoch [190/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:45:35,811 - Epoch [190/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:45:39,193 - Epoch [190/300], Step [30/38], Loss: 0.0894
+2024-07-10 01:45:41,690 - Epoch [190/300] completed. Avg Train Loss: 0.0059, Accuracy: 99.83%
+2024-07-10 01:45:44,260 - Epoch [190/300] completed. Avg Test Loss: 4.6900, Test Accuracy: 55.40%
+2024-07-10 01:45:44,260 - Starting epoch 191/300
+2024-07-10 01:45:47,868 - Epoch [191/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:45:51,262 - Epoch [191/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:45:54,948 - Epoch [191/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:45:57,575 - Epoch [191/300] completed. Avg Train Loss: 0.0139, Accuracy: 99.75%
+2024-07-10 01:45:59,962 - Epoch [191/300] completed. Avg Test Loss: 2.5666, Test Accuracy: 70.00%
+2024-07-10 01:45:59,962 - Starting epoch 192/300
+2024-07-10 01:46:03,635 - Epoch [192/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:46:07,012 - Epoch [192/300], Step [20/38], Loss: 0.0003
+2024-07-10 01:46:10,448 - Epoch [192/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:46:13,175 - Epoch [192/300] completed. Avg Train Loss: 0.0120, Accuracy: 99.75%
+2024-07-10 01:46:15,600 - Epoch [192/300] completed. Avg Test Loss: 2.8313, Test Accuracy: 66.20%
+2024-07-10 01:46:15,601 - Starting epoch 193/300
+2024-07-10 01:46:19,228 - Epoch [193/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:46:22,584 - Epoch [193/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:46:26,168 - Epoch [193/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:46:29,205 - Epoch [193/300] completed. Avg Train Loss: 0.0039, Accuracy: 99.88%
+2024-07-10 01:46:31,908 - Epoch [193/300] completed. Avg Test Loss: 2.3156, Test Accuracy: 66.80%
+2024-07-10 01:46:31,908 - Starting epoch 194/300
+2024-07-10 01:46:35,443 - Epoch [194/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:46:39,106 - Epoch [194/300], Step [20/38], Loss: 0.0005
+2024-07-10 01:46:42,843 - Epoch [194/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:46:45,426 - Epoch [194/300] completed. Avg Train Loss: 0.0032, Accuracy: 99.92%
+2024-07-10 01:46:47,989 - Epoch [194/300] completed. Avg Test Loss: 3.2614, Test Accuracy: 59.80%
+2024-07-10 01:46:47,989 - Starting epoch 195/300
+2024-07-10 01:46:51,326 - Epoch [195/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:46:54,879 - Epoch [195/300], Step [20/38], Loss: 0.0038
+2024-07-10 01:46:58,248 - Epoch [195/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:47:01,085 - Epoch [195/300] completed. Avg Train Loss: 0.0067, Accuracy: 99.75%
+2024-07-10 01:47:03,553 - Epoch [195/300] completed. Avg Test Loss: 2.8042, Test Accuracy: 63.20%
+2024-07-10 01:47:03,553 - Starting epoch 196/300
+2024-07-10 01:47:06,913 - Epoch [196/300], Step [10/38], Loss: 0.0062
+2024-07-10 01:47:10,444 - Epoch [196/300], Step [20/38], Loss: 0.0025
+2024-07-10 01:47:13,805 - Epoch [196/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:47:16,760 - Epoch [196/300] completed. Avg Train Loss: 0.0008, Accuracy: 100.00%
+2024-07-10 01:47:19,181 - Epoch [196/300] completed. Avg Test Loss: 1.9225, Test Accuracy: 69.00%
+2024-07-10 01:47:19,181 - Starting epoch 197/300
+2024-07-10 01:47:22,759 - Epoch [197/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:47:26,113 - Epoch [197/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:47:30,290 - Epoch [197/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:47:32,632 - Epoch [197/300] completed. Avg Train Loss: 0.0008, Accuracy: 100.00%
+2024-07-10 01:47:35,041 - Epoch [197/300] completed. Avg Test Loss: 1.8721, Test Accuracy: 68.40%
+2024-07-10 01:47:35,041 - Starting epoch 198/300
+2024-07-10 01:47:39,268 - Epoch [198/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:47:42,421 - Epoch [198/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:47:46,057 - Epoch [198/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:47:49,115 - Epoch [198/300] completed. Avg Train Loss: 0.0004, Accuracy: 100.00%
+2024-07-10 01:47:51,843 - Epoch [198/300] completed. Avg Test Loss: 2.4114, Test Accuracy: 66.20%
+2024-07-10 01:47:51,843 - Starting epoch 199/300
+2024-07-10 01:47:55,229 - Epoch [199/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:47:58,855 - Epoch [199/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:48:02,910 - Epoch [199/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:48:05,524 - Epoch [199/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:48:07,958 - Epoch [199/300] completed. Avg Test Loss: 2.3815, Test Accuracy: 67.40%
+2024-07-10 01:48:07,958 - Starting epoch 200/300
+2024-07-10 01:48:11,540 - Epoch [200/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:48:15,125 - Epoch [200/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:48:18,699 - Epoch [200/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:48:21,254 - Epoch [200/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 01:48:23,847 - Epoch [200/300] completed. Avg Test Loss: 2.3959, Test Accuracy: 68.40%
+2024-07-10 01:48:23,847 - Starting epoch 201/300
+2024-07-10 01:48:27,219 - Epoch [201/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:48:30,898 - Epoch [201/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:48:34,288 - Epoch [201/300], Step [30/38], Loss: 0.0002
+2024-07-10 01:48:36,775 - Epoch [201/300] completed. Avg Train Loss: 0.0021, Accuracy: 99.92%
+2024-07-10 01:48:39,327 - Epoch [201/300] completed. Avg Test Loss: 2.5766, Test Accuracy: 66.80%
+2024-07-10 01:48:39,328 - Starting epoch 202/300
+2024-07-10 01:48:42,654 - Epoch [202/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:48:46,181 - Epoch [202/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:48:49,636 - Epoch [202/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:48:52,212 - Epoch [202/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:48:54,641 - Epoch [202/300] completed. Avg Test Loss: 2.1622, Test Accuracy: 67.80%
+2024-07-10 01:48:54,641 - Starting epoch 203/300
+2024-07-10 01:48:58,373 - Epoch [203/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:49:01,811 - Epoch [203/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:49:05,366 - Epoch [203/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:49:07,789 - Epoch [203/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:49:10,285 - Epoch [203/300] completed. Avg Test Loss: 2.1994, Test Accuracy: 67.40%
+2024-07-10 01:49:10,285 - Starting epoch 204/300
+2024-07-10 01:49:13,810 - Epoch [204/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:49:17,522 - Epoch [204/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:49:20,903 - Epoch [204/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:49:23,465 - Epoch [204/300] completed. Avg Train Loss: 0.0018, Accuracy: 99.88%
+2024-07-10 01:49:26,003 - Epoch [204/300] completed. Avg Test Loss: 2.7298, Test Accuracy: 66.00%
+2024-07-10 01:49:26,003 - Starting epoch 205/300
+2024-07-10 01:49:29,545 - Epoch [205/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:49:33,336 - Epoch [205/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:49:36,529 - Epoch [205/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:49:39,497 - Epoch [205/300] completed. Avg Train Loss: 0.0072, Accuracy: 99.75%
+2024-07-10 01:49:42,198 - Epoch [205/300] completed. Avg Test Loss: 1.9920, Test Accuracy: 69.60%
+2024-07-10 01:49:42,198 - Starting epoch 206/300
+2024-07-10 01:49:45,717 - Epoch [206/300], Step [10/38], Loss: 0.0023
+2024-07-10 01:49:49,445 - Epoch [206/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:49:53,444 - Epoch [206/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:49:55,791 - Epoch [206/300] completed. Avg Train Loss: 0.0067, Accuracy: 99.79%
+2024-07-10 01:49:58,319 - Epoch [206/300] completed. Avg Test Loss: 2.8110, Test Accuracy: 65.00%
+2024-07-10 01:49:58,319 - Starting epoch 207/300
+2024-07-10 01:50:01,673 - Epoch [207/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:50:05,560 - Epoch [207/300], Step [20/38], Loss: 0.0006
+2024-07-10 01:50:08,795 - Epoch [207/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:50:11,659 - Epoch [207/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 01:50:14,313 - Epoch [207/300] completed. Avg Test Loss: 2.8659, Test Accuracy: 65.80%
+2024-07-10 01:50:14,313 - Starting epoch 208/300
+2024-07-10 01:50:17,658 - Epoch [208/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:50:21,209 - Epoch [208/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:50:24,577 - Epoch [208/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:50:27,419 - Epoch [208/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:50:29,836 - Epoch [208/300] completed. Avg Test Loss: 3.0756, Test Accuracy: 64.80%
+2024-07-10 01:50:29,836 - Starting epoch 209/300
+2024-07-10 01:50:33,212 - Epoch [209/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:50:36,899 - Epoch [209/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:50:40,289 - Epoch [209/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:50:42,771 - Epoch [209/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 01:50:45,350 - Epoch [209/300] completed. Avg Test Loss: 2.6597, Test Accuracy: 67.20%
+2024-07-10 01:50:45,350 - Starting epoch 210/300
+2024-07-10 01:50:48,652 - Epoch [210/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:50:52,307 - Epoch [210/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:50:55,652 - Epoch [210/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:50:58,515 - Epoch [210/300] completed. Avg Train Loss: 0.0017, Accuracy: 99.92%
+2024-07-10 01:51:01,115 - Epoch [210/300] completed. Avg Test Loss: 3.4075, Test Accuracy: 62.00%
+2024-07-10 01:51:01,115 - Starting epoch 211/300
+2024-07-10 01:51:04,431 - Epoch [211/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:51:08,287 - Epoch [211/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:51:11,655 - Epoch [211/300], Step [30/38], Loss: 0.0047
+2024-07-10 01:51:14,295 - Epoch [211/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:51:16,699 - Epoch [211/300] completed. Avg Test Loss: 3.1197, Test Accuracy: 63.80%
+2024-07-10 01:51:16,699 - Starting epoch 212/300
+2024-07-10 01:51:20,281 - Epoch [212/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:51:23,640 - Epoch [212/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:51:27,699 - Epoch [212/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:51:30,226 - Epoch [212/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:51:32,704 - Epoch [212/300] completed. Avg Test Loss: 2.8287, Test Accuracy: 65.40%
+2024-07-10 01:51:32,704 - Starting epoch 213/300
+2024-07-10 01:51:36,042 - Epoch [213/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:51:39,716 - Epoch [213/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:51:43,236 - Epoch [213/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:51:45,594 - Epoch [213/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 01:51:48,120 - Epoch [213/300] completed. Avg Test Loss: 3.0879, Test Accuracy: 63.80%
+2024-07-10 01:51:48,120 - Starting epoch 214/300
+2024-07-10 01:51:51,566 - Epoch [214/300], Step [10/38], Loss: 0.0069
+2024-07-10 01:51:54,972 - Epoch [214/300], Step [20/38], Loss: 0.0006
+2024-07-10 01:51:58,675 - Epoch [214/300], Step [30/38], Loss: 0.0086
+2024-07-10 01:52:01,378 - Epoch [214/300] completed. Avg Train Loss: 0.0208, Accuracy: 99.33%
+2024-07-10 01:52:03,831 - Epoch [214/300] completed. Avg Test Loss: 3.8664, Test Accuracy: 63.00%
+2024-07-10 01:52:03,831 - Starting epoch 215/300
+2024-07-10 01:52:07,440 - Epoch [215/300], Step [10/38], Loss: 0.1338
+2024-07-10 01:52:10,798 - Epoch [215/300], Step [20/38], Loss: 0.0731
+2024-07-10 01:52:14,404 - Epoch [215/300], Step [30/38], Loss: 0.0048
+2024-07-10 01:52:16,947 - Epoch [215/300] completed. Avg Train Loss: 0.0284, Accuracy: 99.00%
+2024-07-10 01:52:19,337 - Epoch [215/300] completed. Avg Test Loss: 2.5180, Test Accuracy: 63.40%
+2024-07-10 01:52:19,337 - Starting epoch 216/300
+2024-07-10 01:52:22,823 - Epoch [216/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:52:26,260 - Epoch [216/300], Step [20/38], Loss: 0.1999
+2024-07-10 01:52:29,701 - Epoch [216/300], Step [30/38], Loss: 0.0270
+2024-07-10 01:52:32,225 - Epoch [216/300] completed. Avg Train Loss: 0.0263, Accuracy: 99.25%
+2024-07-10 01:52:34,678 - Epoch [216/300] completed. Avg Test Loss: 2.7765, Test Accuracy: 62.00%
+2024-07-10 01:52:34,678 - Starting epoch 217/300
+2024-07-10 01:52:37,992 - Epoch [217/300], Step [10/38], Loss: 0.0585
+2024-07-10 01:52:41,628 - Epoch [217/300], Step [20/38], Loss: 0.0015
+2024-07-10 01:52:44,963 - Epoch [217/300], Step [30/38], Loss: 0.0004
+2024-07-10 01:52:47,549 - Epoch [217/300] completed. Avg Train Loss: 0.0210, Accuracy: 99.29%
+2024-07-10 01:52:49,912 - Epoch [217/300] completed. Avg Test Loss: 3.0377, Test Accuracy: 55.40%
+2024-07-10 01:52:49,912 - Starting epoch 218/300
+2024-07-10 01:52:53,454 - Epoch [218/300], Step [10/38], Loss: 0.0025
+2024-07-10 01:52:56,940 - Epoch [218/300], Step [20/38], Loss: 0.0559
+2024-07-10 01:53:00,233 - Epoch [218/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:53:02,767 - Epoch [218/300] completed. Avg Train Loss: 0.0126, Accuracy: 99.67%
+2024-07-10 01:53:05,223 - Epoch [218/300] completed. Avg Test Loss: 1.7969, Test Accuracy: 69.60%
+2024-07-10 01:53:05,223 - Starting epoch 219/300
+2024-07-10 01:53:08,542 - Epoch [219/300], Step [10/38], Loss: 0.0011
+2024-07-10 01:53:12,169 - Epoch [219/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:53:15,517 - Epoch [219/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:53:18,231 - Epoch [219/300] completed. Avg Train Loss: 0.0008, Accuracy: 100.00%
+2024-07-10 01:53:20,959 - Epoch [219/300] completed. Avg Test Loss: 2.1766, Test Accuracy: 70.00%
+2024-07-10 01:53:20,959 - Starting epoch 220/300
+2024-07-10 01:53:24,548 - Epoch [220/300], Step [10/38], Loss: 0.0076
+2024-07-10 01:53:27,952 - Epoch [220/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:53:31,345 - Epoch [220/300], Step [30/38], Loss: 0.0008
+2024-07-10 01:53:33,964 - Epoch [220/300] completed. Avg Train Loss: 0.0036, Accuracy: 99.83%
+2024-07-10 01:53:36,417 - Epoch [220/300] completed. Avg Test Loss: 2.7233, Test Accuracy: 65.40%
+2024-07-10 01:53:36,417 - Starting epoch 221/300
+2024-07-10 01:53:40,083 - Epoch [221/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:53:43,462 - Epoch [221/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:53:46,914 - Epoch [221/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:53:49,794 - Epoch [221/300] completed. Avg Train Loss: 0.0026, Accuracy: 99.92%
+2024-07-10 01:53:52,474 - Epoch [221/300] completed. Avg Test Loss: 2.7980, Test Accuracy: 63.60%
+2024-07-10 01:53:52,474 - Starting epoch 222/300
+2024-07-10 01:53:55,800 - Epoch [222/300], Step [10/38], Loss: 0.0145
+2024-07-10 01:53:59,506 - Epoch [222/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:54:02,975 - Epoch [222/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:54:05,366 - Epoch [222/300] completed. Avg Train Loss: 0.0005, Accuracy: 99.96%
+2024-07-10 01:54:07,903 - Epoch [222/300] completed. Avg Test Loss: 2.5006, Test Accuracy: 65.40%
+2024-07-10 01:54:07,904 - Starting epoch 223/300
+2024-07-10 01:54:11,520 - Epoch [223/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:54:15,217 - Epoch [223/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:54:18,621 - Epoch [223/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:54:21,085 - Epoch [223/300] completed. Avg Train Loss: 0.0016, Accuracy: 99.96%
+2024-07-10 01:54:23,692 - Epoch [223/300] completed. Avg Test Loss: 2.8238, Test Accuracy: 63.80%
+2024-07-10 01:54:23,692 - Starting epoch 224/300
+2024-07-10 01:54:27,338 - Epoch [224/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:54:31,359 - Epoch [224/300], Step [20/38], Loss: 0.0014
+2024-07-10 01:54:35,373 - Epoch [224/300], Step [30/38], Loss: 0.0133
+2024-07-10 01:54:38,116 - Epoch [224/300] completed. Avg Train Loss: 0.0006, Accuracy: 99.96%
+2024-07-10 01:54:40,689 - Epoch [224/300] completed. Avg Test Loss: 2.6173, Test Accuracy: 64.00%
+2024-07-10 01:54:40,689 - Starting epoch 225/300
+2024-07-10 01:54:44,228 - Epoch [225/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:54:47,785 - Epoch [225/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:54:51,472 - Epoch [225/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:54:54,095 - Epoch [225/300] completed. Avg Train Loss: 0.0011, Accuracy: 99.96%
+2024-07-10 01:54:56,529 - Epoch [225/300] completed. Avg Test Loss: 2.6731, Test Accuracy: 63.20%
+2024-07-10 01:54:56,529 - Starting epoch 226/300
+2024-07-10 01:55:00,196 - Epoch [226/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:55:03,828 - Epoch [226/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:55:07,111 - Epoch [226/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:55:09,791 - Epoch [226/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:55:12,364 - Epoch [226/300] completed. Avg Test Loss: 2.5179, Test Accuracy: 64.60%
+2024-07-10 01:55:12,364 - Starting epoch 227/300
+2024-07-10 01:55:15,768 - Epoch [227/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:55:19,303 - Epoch [227/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:55:22,633 - Epoch [227/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:55:25,650 - Epoch [227/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:55:28,348 - Epoch [227/300] completed. Avg Test Loss: 2.5232, Test Accuracy: 64.80%
+2024-07-10 01:55:28,348 - Starting epoch 228/300
+2024-07-10 01:55:31,736 - Epoch [228/300], Step [10/38], Loss: 0.0002
+2024-07-10 01:55:35,278 - Epoch [228/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:55:38,868 - Epoch [228/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:55:41,336 - Epoch [228/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:55:43,880 - Epoch [228/300] completed. Avg Test Loss: 2.4958, Test Accuracy: 65.60%
+2024-07-10 01:55:43,881 - Starting epoch 229/300
+2024-07-10 01:55:47,577 - Epoch [229/300], Step [10/38], Loss: 0.0001
+2024-07-10 01:55:51,756 - Epoch [229/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:55:55,276 - Epoch [229/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:55:58,101 - Epoch [229/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:56:00,708 - Epoch [229/300] completed. Avg Test Loss: 2.4073, Test Accuracy: 66.60%
+2024-07-10 01:56:00,708 - Starting epoch 230/300
+2024-07-10 01:56:04,062 - Epoch [230/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:56:07,651 - Epoch [230/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:56:10,986 - Epoch [230/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:56:13,602 - Epoch [230/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:56:16,238 - Epoch [230/300] completed. Avg Test Loss: 2.3905, Test Accuracy: 66.40%
+2024-07-10 01:56:16,238 - Starting epoch 231/300
+2024-07-10 01:56:19,880 - Epoch [231/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:56:23,253 - Epoch [231/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:56:26,853 - Epoch [231/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:56:29,411 - Epoch [231/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:56:31,952 - Epoch [231/300] completed. Avg Test Loss: 2.4116, Test Accuracy: 65.20%
+2024-07-10 01:56:31,952 - Starting epoch 232/300
+2024-07-10 01:56:35,277 - Epoch [232/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:56:38,917 - Epoch [232/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:56:42,806 - Epoch [232/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:56:45,247 - Epoch [232/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:56:47,767 - Epoch [232/300] completed. Avg Test Loss: 2.4507, Test Accuracy: 65.40%
+2024-07-10 01:56:47,768 - Starting epoch 233/300
+2024-07-10 01:56:51,132 - Epoch [233/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:56:54,694 - Epoch [233/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:56:58,056 - Epoch [233/300], Step [30/38], Loss: 0.0001
+2024-07-10 01:57:00,911 - Epoch [233/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:57:03,345 - Epoch [233/300] completed. Avg Test Loss: 2.4095, Test Accuracy: 65.80%
+2024-07-10 01:57:03,345 - Starting epoch 234/300
+2024-07-10 01:57:06,723 - Epoch [234/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:57:10,247 - Epoch [234/300], Step [20/38], Loss: 0.0001
+2024-07-10 01:57:13,603 - Epoch [234/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:57:16,601 - Epoch [234/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:57:19,220 - Epoch [234/300] completed. Avg Test Loss: 2.3785, Test Accuracy: 65.60%
+2024-07-10 01:57:19,221 - Starting epoch 235/300
+2024-07-10 01:57:22,663 - Epoch [235/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:57:26,030 - Epoch [235/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:57:29,623 - Epoch [235/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:57:32,029 - Epoch [235/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 01:57:34,523 - Epoch [235/300] completed. Avg Test Loss: 2.5092, Test Accuracy: 63.80%
+2024-07-10 01:57:34,523 - Starting epoch 236/300
+2024-07-10 01:57:38,247 - Epoch [236/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:57:41,555 - Epoch [236/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:57:45,149 - Epoch [236/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:57:48,040 - Epoch [236/300] completed. Avg Train Loss: 0.0003, Accuracy: 99.96%
+2024-07-10 01:57:50,452 - Epoch [236/300] completed. Avg Test Loss: 2.2746, Test Accuracy: 67.00%
+2024-07-10 01:57:50,452 - Starting epoch 237/300
+2024-07-10 01:57:54,532 - Epoch [237/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:57:58,056 - Epoch [237/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:58:01,609 - Epoch [237/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:58:04,227 - Epoch [237/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 01:58:06,758 - Epoch [237/300] completed. Avg Test Loss: 2.8808, Test Accuracy: 62.00%
+2024-07-10 01:58:06,758 - Starting epoch 238/300
+2024-07-10 01:58:10,136 - Epoch [238/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:58:13,806 - Epoch [238/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:58:17,277 - Epoch [238/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:58:20,371 - Epoch [238/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:58:22,963 - Epoch [238/300] completed. Avg Test Loss: 2.9074, Test Accuracy: 62.00%
+2024-07-10 01:58:22,963 - Starting epoch 239/300
+2024-07-10 01:58:26,332 - Epoch [239/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:58:29,857 - Epoch [239/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:58:33,904 - Epoch [239/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:58:36,655 - Epoch [239/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:58:39,099 - Epoch [239/300] completed. Avg Test Loss: 2.9273, Test Accuracy: 63.00%
+2024-07-10 01:58:39,100 - Starting epoch 240/300
+2024-07-10 01:58:43,010 - Epoch [240/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:58:46,756 - Epoch [240/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:58:50,085 - Epoch [240/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:58:52,894 - Epoch [240/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:58:55,544 - Epoch [240/300] completed. Avg Test Loss: 2.8208, Test Accuracy: 64.20%
+2024-07-10 01:58:55,545 - Starting epoch 241/300
+2024-07-10 01:58:58,948 - Epoch [241/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:59:02,771 - Epoch [241/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:59:06,167 - Epoch [241/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:59:08,781 - Epoch [241/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:59:11,168 - Epoch [241/300] completed. Avg Test Loss: 2.6789, Test Accuracy: 64.20%
+2024-07-10 01:59:11,168 - Starting epoch 242/300
+2024-07-10 01:59:14,740 - Epoch [242/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:59:18,099 - Epoch [242/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:59:21,876 - Epoch [242/300], Step [30/38], Loss: 0.0003
+2024-07-10 01:59:24,306 - Epoch [242/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:59:26,827 - Epoch [242/300] completed. Avg Test Loss: 2.6155, Test Accuracy: 63.60%
+2024-07-10 01:59:26,827 - Starting epoch 243/300
+2024-07-10 01:59:30,402 - Epoch [243/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:59:33,977 - Epoch [243/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:59:37,515 - Epoch [243/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:59:40,297 - Epoch [243/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:59:42,692 - Epoch [243/300] completed. Avg Test Loss: 2.5156, Test Accuracy: 64.20%
+2024-07-10 01:59:42,692 - Starting epoch 244/300
+2024-07-10 01:59:46,413 - Epoch [244/300], Step [10/38], Loss: 0.0000
+2024-07-10 01:59:49,931 - Epoch [244/300], Step [20/38], Loss: 0.0000
+2024-07-10 01:59:53,338 - Epoch [244/300], Step [30/38], Loss: 0.0000
+2024-07-10 01:59:56,142 - Epoch [244/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 01:59:58,804 - Epoch [244/300] completed. Avg Test Loss: 2.4657, Test Accuracy: 64.40%
+2024-07-10 01:59:58,804 - Starting epoch 245/300
+2024-07-10 02:00:02,389 - Epoch [245/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:00:06,117 - Epoch [245/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:00:09,489 - Epoch [245/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:00:11,965 - Epoch [245/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:00:14,543 - Epoch [245/300] completed. Avg Test Loss: 2.5540, Test Accuracy: 64.20%
+2024-07-10 02:00:14,543 - Starting epoch 246/300
+2024-07-10 02:00:17,881 - Epoch [246/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:00:21,532 - Epoch [246/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:00:24,930 - Epoch [246/300], Step [30/38], Loss: 0.0003
+2024-07-10 02:00:27,522 - Epoch [246/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:00:30,038 - Epoch [246/300] completed. Avg Test Loss: 2.4610, Test Accuracy: 65.00%
+2024-07-10 02:00:30,038 - Starting epoch 247/300
+2024-07-10 02:00:33,429 - Epoch [247/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:00:36,975 - Epoch [247/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:00:40,543 - Epoch [247/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:00:42,980 - Epoch [247/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:00:45,498 - Epoch [247/300] completed. Avg Test Loss: 2.4270, Test Accuracy: 64.80%
+2024-07-10 02:00:45,498 - Starting epoch 248/300
+2024-07-10 02:00:49,072 - Epoch [248/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:00:52,664 - Epoch [248/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:00:56,241 - Epoch [248/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:00:59,342 - Epoch [248/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:01:02,060 - Epoch [248/300] completed. Avg Test Loss: 2.4913, Test Accuracy: 64.00%
+2024-07-10 02:01:02,061 - Starting epoch 249/300
+2024-07-10 02:01:05,446 - Epoch [249/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:01:08,965 - Epoch [249/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:01:12,309 - Epoch [249/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:01:15,232 - Epoch [249/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 02:01:17,825 - Epoch [249/300] completed. Avg Test Loss: 3.9018, Test Accuracy: 59.60%
+2024-07-10 02:01:17,825 - Starting epoch 250/300
+2024-07-10 02:01:21,383 - Epoch [250/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:01:24,774 - Epoch [250/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:01:28,401 - Epoch [250/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:01:30,876 - Epoch [250/300] completed. Avg Train Loss: 0.0061, Accuracy: 99.83%
+2024-07-10 02:01:33,358 - Epoch [250/300] completed. Avg Test Loss: 4.9539, Test Accuracy: 51.80%
+2024-07-10 02:01:33,358 - Starting epoch 251/300
+2024-07-10 02:01:36,955 - Epoch [251/300], Step [10/38], Loss: 0.0026
+2024-07-10 02:01:40,492 - Epoch [251/300], Step [20/38], Loss: 0.0457
+2024-07-10 02:01:44,036 - Epoch [251/300], Step [30/38], Loss: 0.0515
+2024-07-10 02:01:46,793 - Epoch [251/300] completed. Avg Train Loss: 0.0231, Accuracy: 99.29%
+2024-07-10 02:01:49,424 - Epoch [251/300] completed. Avg Test Loss: 3.4892, Test Accuracy: 66.60%
+2024-07-10 02:01:49,424 - Starting epoch 252/300
+2024-07-10 02:01:53,066 - Epoch [252/300], Step [10/38], Loss: 0.0760
+2024-07-10 02:01:57,506 - Epoch [252/300], Step [20/38], Loss: 0.0447
+2024-07-10 02:02:00,927 - Epoch [252/300], Step [30/38], Loss: 0.0466
+2024-07-10 02:02:04,030 - Epoch [252/300] completed. Avg Train Loss: 0.0618, Accuracy: 98.54%
+2024-07-10 02:02:06,806 - Epoch [252/300] completed. Avg Test Loss: 1.3004, Test Accuracy: 76.60%
+2024-07-10 02:02:06,806 - Starting epoch 253/300
+2024-07-10 02:02:10,363 - Epoch [253/300], Step [10/38], Loss: 0.0005
+2024-07-10 02:02:14,074 - Epoch [253/300], Step [20/38], Loss: 0.0321
+2024-07-10 02:02:17,267 - Epoch [253/300], Step [30/38], Loss: 0.0002
+2024-07-10 02:02:20,062 - Epoch [253/300] completed. Avg Train Loss: 0.0084, Accuracy: 99.62%
+2024-07-10 02:02:22,682 - Epoch [253/300] completed. Avg Test Loss: 1.0021, Test Accuracy: 73.00%
+2024-07-10 02:02:22,682 - Starting epoch 254/300
+2024-07-10 02:02:26,073 - Epoch [254/300], Step [10/38], Loss: 0.0216
+2024-07-10 02:02:29,627 - Epoch [254/300], Step [20/38], Loss: 0.0004
+2024-07-10 02:02:33,301 - Epoch [254/300], Step [30/38], Loss: 0.0106
+2024-07-10 02:02:35,749 - Epoch [254/300] completed. Avg Train Loss: 0.0152, Accuracy: 99.50%
+2024-07-10 02:02:38,209 - Epoch [254/300] completed. Avg Test Loss: 2.0227, Test Accuracy: 74.60%
+2024-07-10 02:02:38,209 - Starting epoch 255/300
+2024-07-10 02:02:41,686 - Epoch [255/300], Step [10/38], Loss: 0.0006
+2024-07-10 02:02:45,099 - Epoch [255/300], Step [20/38], Loss: 0.1510
+2024-07-10 02:02:48,543 - Epoch [255/300], Step [30/38], Loss: 0.1365
+2024-07-10 02:02:51,040 - Epoch [255/300] completed. Avg Train Loss: 0.0706, Accuracy: 98.25%
+2024-07-10 02:02:53,536 - Epoch [255/300] completed. Avg Test Loss: 2.2376, Test Accuracy: 59.40%
+2024-07-10 02:02:53,536 - Starting epoch 256/300
+2024-07-10 02:02:57,186 - Epoch [256/300], Step [10/38], Loss: 0.0264
+2024-07-10 02:03:01,368 - Epoch [256/300], Step [20/38], Loss: 0.0162
+2024-07-10 02:03:04,533 - Epoch [256/300], Step [30/38], Loss: 0.0006
+2024-07-10 02:03:07,399 - Epoch [256/300] completed. Avg Train Loss: 0.0212, Accuracy: 99.38%
+2024-07-10 02:03:10,034 - Epoch [256/300] completed. Avg Test Loss: 0.8411, Test Accuracy: 76.00%
+2024-07-10 02:03:10,034 - Starting epoch 257/300
+2024-07-10 02:03:13,533 - Epoch [257/300], Step [10/38], Loss: 0.0076
+2024-07-10 02:03:17,247 - Epoch [257/300], Step [20/38], Loss: 0.0022
+2024-07-10 02:03:20,908 - Epoch [257/300], Step [30/38], Loss: 0.0010
+2024-07-10 02:03:23,442 - Epoch [257/300] completed. Avg Train Loss: 0.0025, Accuracy: 99.96%
+2024-07-10 02:03:25,911 - Epoch [257/300] completed. Avg Test Loss: 0.4038, Test Accuracy: 86.60%
+2024-07-10 02:03:25,911 - Starting epoch 258/300
+2024-07-10 02:03:29,234 - Epoch [258/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:03:32,912 - Epoch [258/300], Step [20/38], Loss: 0.0075
+2024-07-10 02:03:36,434 - Epoch [258/300], Step [30/38], Loss: 0.0005
+2024-07-10 02:03:38,846 - Epoch [258/300] completed. Avg Train Loss: 0.0005, Accuracy: 100.00%
+2024-07-10 02:03:41,395 - Epoch [258/300] completed. Avg Test Loss: 0.3301, Test Accuracy: 88.80%
+2024-07-10 02:03:41,395 - Starting epoch 259/300
+2024-07-10 02:03:44,756 - Epoch [259/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:03:48,315 - Epoch [259/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:03:51,890 - Epoch [259/300], Step [30/38], Loss: 0.0001
+2024-07-10 02:03:54,316 - Epoch [259/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 02:03:56,854 - Epoch [259/300] completed. Avg Test Loss: 0.3794, Test Accuracy: 87.40%
+2024-07-10 02:03:56,854 - Starting epoch 260/300
+2024-07-10 02:04:00,249 - Epoch [260/300], Step [10/38], Loss: 0.0004
+2024-07-10 02:04:03,768 - Epoch [260/300], Step [20/38], Loss: 0.0007
+2024-07-10 02:04:07,478 - Epoch [260/300], Step [30/38], Loss: 0.0012
+2024-07-10 02:04:09,917 - Epoch [260/300] completed. Avg Train Loss: 0.0003, Accuracy: 100.00%
+2024-07-10 02:04:12,369 - Epoch [260/300] completed. Avg Test Loss: 0.3760, Test Accuracy: 87.60%
+2024-07-10 02:04:12,370 - Starting epoch 261/300
+2024-07-10 02:04:15,908 - Epoch [261/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:04:19,383 - Epoch [261/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:04:23,129 - Epoch [261/300], Step [30/38], Loss: 0.0037
+2024-07-10 02:04:26,087 - Epoch [261/300] completed. Avg Train Loss: 0.0009, Accuracy: 99.96%
+2024-07-10 02:04:28,694 - Epoch [261/300] completed. Avg Test Loss: 0.3455, Test Accuracy: 89.20%
+2024-07-10 02:04:28,694 - Starting epoch 262/300
+2024-07-10 02:04:32,303 - Epoch [262/300], Step [10/38], Loss: 0.0002
+2024-07-10 02:04:35,996 - Epoch [262/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:04:39,425 - Epoch [262/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:04:41,950 - Epoch [262/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:04:44,528 - Epoch [262/300] completed. Avg Test Loss: 0.3326, Test Accuracy: 89.20%
+2024-07-10 02:04:44,528 - Starting epoch 263/300
+2024-07-10 02:04:48,122 - Epoch [263/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:04:51,697 - Epoch [263/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:04:55,005 - Epoch [263/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:04:57,943 - Epoch [263/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:05:00,290 - Epoch [263/300] completed. Avg Test Loss: 0.3883, Test Accuracy: 88.00%
+2024-07-10 02:05:00,290 - Starting epoch 264/300
+2024-07-10 02:05:03,931 - Epoch [264/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:05:07,338 - Epoch [264/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:05:10,948 - Epoch [264/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:05:13,381 - Epoch [264/300] completed. Avg Train Loss: 0.0009, Accuracy: 99.96%
+2024-07-10 02:05:15,870 - Epoch [264/300] completed. Avg Test Loss: 0.3992, Test Accuracy: 87.20%
+2024-07-10 02:05:15,870 - Starting epoch 265/300
+2024-07-10 02:05:19,170 - Epoch [265/300], Step [10/38], Loss: 0.0003
+2024-07-10 02:05:22,947 - Epoch [265/300], Step [20/38], Loss: 0.0034
+2024-07-10 02:05:26,124 - Epoch [265/300], Step [30/38], Loss: 0.0005
+2024-07-10 02:05:29,017 - Epoch [265/300] completed. Avg Train Loss: 0.0026, Accuracy: 99.92%
+2024-07-10 02:05:31,657 - Epoch [265/300] completed. Avg Test Loss: 0.3628, Test Accuracy: 88.20%
+2024-07-10 02:05:31,657 - Starting epoch 266/300
+2024-07-10 02:05:34,977 - Epoch [266/300], Step [10/38], Loss: 0.0016
+2024-07-10 02:05:38,771 - Epoch [266/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:05:42,232 - Epoch [266/300], Step [30/38], Loss: 0.0001
+2024-07-10 02:05:44,846 - Epoch [266/300] completed. Avg Train Loss: 0.0011, Accuracy: 99.92%
+2024-07-10 02:05:47,378 - Epoch [266/300] completed. Avg Test Loss: 0.3611, Test Accuracy: 88.20%
+2024-07-10 02:05:47,378 - Starting epoch 267/300
+2024-07-10 02:05:50,751 - Epoch [267/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:05:54,297 - Epoch [267/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:05:57,871 - Epoch [267/300], Step [30/38], Loss: 0.0001
+2024-07-10 02:06:00,314 - Epoch [267/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:06:02,795 - Epoch [267/300] completed. Avg Test Loss: 0.3728, Test Accuracy: 87.60%
+2024-07-10 02:06:02,795 - Starting epoch 268/300
+2024-07-10 02:06:06,265 - Epoch [268/300], Step [10/38], Loss: 0.0002
+2024-07-10 02:06:09,952 - Epoch [268/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:06:13,338 - Epoch [268/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:06:15,955 - Epoch [268/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:06:18,571 - Epoch [268/300] completed. Avg Test Loss: 0.3917, Test Accuracy: 87.80%
+2024-07-10 02:06:18,571 - Starting epoch 269/300
+2024-07-10 02:06:21,926 - Epoch [269/300], Step [10/38], Loss: 0.0002
+2024-07-10 02:06:25,604 - Epoch [269/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:06:29,071 - Epoch [269/300], Step [30/38], Loss: 0.0009
+2024-07-10 02:06:32,171 - Epoch [269/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:06:34,758 - Epoch [269/300] completed. Avg Test Loss: 0.4059, Test Accuracy: 87.80%
+2024-07-10 02:06:34,758 - Starting epoch 270/300
+2024-07-10 02:06:38,100 - Epoch [270/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:06:41,635 - Epoch [270/300], Step [20/38], Loss: 0.0016
+2024-07-10 02:06:45,104 - Epoch [270/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:06:48,162 - Epoch [270/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:06:50,878 - Epoch [270/300] completed. Avg Test Loss: 0.4418, Test Accuracy: 87.00%
+2024-07-10 02:06:50,878 - Starting epoch 271/300
+2024-07-10 02:06:54,431 - Epoch [271/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:06:58,218 - Epoch [271/300], Step [20/38], Loss: 0.0023
+2024-07-10 02:07:01,404 - Epoch [271/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:07:04,369 - Epoch [271/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:07:07,068 - Epoch [271/300] completed. Avg Test Loss: 0.4286, Test Accuracy: 87.20%
+2024-07-10 02:07:07,068 - Starting epoch 272/300
+2024-07-10 02:07:10,611 - Epoch [272/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:07:14,423 - Epoch [272/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:07:17,654 - Epoch [272/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:07:20,285 - Epoch [272/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:07:22,865 - Epoch [272/300] completed. Avg Test Loss: 0.4533, Test Accuracy: 87.00%
+2024-07-10 02:07:22,865 - Starting epoch 273/300
+2024-07-10 02:07:26,480 - Epoch [273/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:07:29,865 - Epoch [273/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:07:33,555 - Epoch [273/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:07:36,135 - Epoch [273/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:07:38,765 - Epoch [273/300] completed. Avg Test Loss: 0.4626, Test Accuracy: 87.20%
+2024-07-10 02:07:38,765 - Starting epoch 274/300
+2024-07-10 02:07:42,252 - Epoch [274/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:07:45,918 - Epoch [274/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:07:49,598 - Epoch [274/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:07:52,063 - Epoch [274/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:07:54,649 - Epoch [274/300] completed. Avg Test Loss: 0.4703, Test Accuracy: 85.80%
+2024-07-10 02:07:54,649 - Starting epoch 275/300
+2024-07-10 02:07:58,283 - Epoch [275/300], Step [10/38], Loss: 0.0002
+2024-07-10 02:08:01,934 - Epoch [275/300], Step [20/38], Loss: 0.0008
+2024-07-10 02:08:05,791 - Epoch [275/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:08:08,172 - Epoch [275/300] completed. Avg Train Loss: 0.0012, Accuracy: 99.92%
+2024-07-10 02:08:10,659 - Epoch [275/300] completed. Avg Test Loss: 0.7913, Test Accuracy: 81.60%
+2024-07-10 02:08:10,659 - Starting epoch 276/300
+2024-07-10 02:08:14,714 - Epoch [276/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:08:18,857 - Epoch [276/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:08:22,317 - Epoch [276/300], Step [30/38], Loss: 0.0002
+2024-07-10 02:08:25,170 - Epoch [276/300] completed. Avg Train Loss: 0.0039, Accuracy: 99.96%
+2024-07-10 02:08:27,589 - Epoch [276/300] completed. Avg Test Loss: 1.2275, Test Accuracy: 75.40%
+2024-07-10 02:08:27,589 - Starting epoch 277/300
+2024-07-10 02:08:31,172 - Epoch [277/300], Step [10/38], Loss: 0.0037
+2024-07-10 02:08:35,246 - Epoch [277/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:08:38,423 - Epoch [277/300], Step [30/38], Loss: 0.0002
+2024-07-10 02:08:41,142 - Epoch [277/300] completed. Avg Train Loss: 0.0002, Accuracy: 100.00%
+2024-07-10 02:08:43,737 - Epoch [277/300] completed. Avg Test Loss: 0.9284, Test Accuracy: 78.60%
+2024-07-10 02:08:43,737 - Starting epoch 278/300
+2024-07-10 02:08:47,114 - Epoch [278/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:08:50,636 - Epoch [278/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:08:54,149 - Epoch [278/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:08:56,929 - Epoch [278/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:08:59,303 - Epoch [278/300] completed. Avg Test Loss: 0.8848, Test Accuracy: 79.60%
+2024-07-10 02:08:59,303 - Starting epoch 279/300
+2024-07-10 02:09:03,123 - Epoch [279/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:09:06,377 - Epoch [279/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:09:10,077 - Epoch [279/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:09:12,499 - Epoch [279/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:09:14,975 - Epoch [279/300] completed. Avg Test Loss: 0.8368, Test Accuracy: 80.40%
+2024-07-10 02:09:14,975 - Starting epoch 280/300
+2024-07-10 02:09:18,306 - Epoch [280/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:09:21,883 - Epoch [280/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:09:25,942 - Epoch [280/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:09:28,319 - Epoch [280/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:09:30,756 - Epoch [280/300] completed. Avg Test Loss: 0.8379, Test Accuracy: 80.40%
+2024-07-10 02:09:30,756 - Starting epoch 281/300
+2024-07-10 02:09:34,343 - Epoch [281/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:09:37,672 - Epoch [281/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:09:41,282 - Epoch [281/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:09:43,793 - Epoch [281/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:09:46,251 - Epoch [281/300] completed. Avg Test Loss: 0.8264, Test Accuracy: 80.60%
+2024-07-10 02:09:46,251 - Starting epoch 282/300
+2024-07-10 02:09:49,586 - Epoch [282/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:09:53,222 - Epoch [282/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:09:56,714 - Epoch [282/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:09:59,094 - Epoch [282/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:10:01,623 - Epoch [282/300] completed. Avg Test Loss: 0.7781, Test Accuracy: 81.20%
+2024-07-10 02:10:01,623 - Starting epoch 283/300
+2024-07-10 02:10:05,183 - Epoch [283/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:10:08,961 - Epoch [283/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:10:12,155 - Epoch [283/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:10:15,104 - Epoch [283/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:10:17,768 - Epoch [283/300] completed. Avg Test Loss: 0.7854, Test Accuracy: 82.20%
+2024-07-10 02:10:17,768 - Starting epoch 284/300
+2024-07-10 02:10:21,096 - Epoch [284/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:10:24,774 - Epoch [284/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:10:28,184 - Epoch [284/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:10:30,817 - Epoch [284/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:10:33,295 - Epoch [284/300] completed. Avg Test Loss: 0.7930, Test Accuracy: 81.60%
+2024-07-10 02:10:33,295 - Starting epoch 285/300
+2024-07-10 02:10:36,740 - Epoch [285/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:10:40,409 - Epoch [285/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:10:43,743 - Epoch [285/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:10:46,287 - Epoch [285/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:10:48,862 - Epoch [285/300] completed. Avg Test Loss: 0.7930, Test Accuracy: 81.20%
+2024-07-10 02:10:48,862 - Starting epoch 286/300
+2024-07-10 02:10:52,488 - Epoch [286/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:10:56,256 - Epoch [286/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:10:59,510 - Epoch [286/300], Step [30/38], Loss: 0.0002
+2024-07-10 02:11:02,391 - Epoch [286/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:11:05,001 - Epoch [286/300] completed. Avg Test Loss: 0.9071, Test Accuracy: 80.00%
+2024-07-10 02:11:05,001 - Starting epoch 287/300
+2024-07-10 02:11:08,950 - Epoch [287/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:11:12,214 - Epoch [287/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:11:16,265 - Epoch [287/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:11:19,055 - Epoch [287/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:11:21,453 - Epoch [287/300] completed. Avg Test Loss: 0.8767, Test Accuracy: 80.60%
+2024-07-10 02:11:21,453 - Starting epoch 288/300
+2024-07-10 02:11:25,426 - Epoch [288/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:11:28,660 - Epoch [288/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:11:32,697 - Epoch [288/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:11:35,489 - Epoch [288/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:11:37,907 - Epoch [288/300] completed. Avg Test Loss: 0.8452, Test Accuracy: 80.60%
+2024-07-10 02:11:37,907 - Starting epoch 289/300
+2024-07-10 02:11:41,515 - Epoch [289/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:11:44,883 - Epoch [289/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:11:48,656 - Epoch [289/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:11:51,120 - Epoch [289/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:11:53,620 - Epoch [289/300] completed. Avg Test Loss: 0.8490, Test Accuracy: 80.40%
+2024-07-10 02:11:53,620 - Starting epoch 290/300
+2024-07-10 02:11:57,045 - Epoch [290/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:12:00,767 - Epoch [290/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:12:04,118 - Epoch [290/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:12:06,886 - Epoch [290/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:12:10,293 - Epoch [290/300] completed. Avg Test Loss: 0.8062, Test Accuracy: 81.00%
+2024-07-10 02:12:10,293 - Starting epoch 291/300
+2024-07-10 02:12:14,650 - Epoch [291/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:12:18,362 - Epoch [291/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:12:21,659 - Epoch [291/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:12:24,524 - Epoch [291/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:12:26,858 - Epoch [291/300] completed. Avg Test Loss: 0.8080, Test Accuracy: 81.20%
+2024-07-10 02:12:26,859 - Starting epoch 292/300
+2024-07-10 02:12:30,517 - Epoch [292/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:12:33,921 - Epoch [292/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:12:37,613 - Epoch [292/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:12:39,996 - Epoch [292/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:12:42,422 - Epoch [292/300] completed. Avg Test Loss: 0.8305, Test Accuracy: 80.80%
+2024-07-10 02:12:42,422 - Starting epoch 293/300
+2024-07-10 02:12:46,407 - Epoch [293/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:12:49,602 - Epoch [293/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:12:53,226 - Epoch [293/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:12:55,726 - Epoch [293/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:12:58,219 - Epoch [293/300] completed. Avg Test Loss: 0.8270, Test Accuracy: 81.00%
+2024-07-10 02:12:58,219 - Starting epoch 294/300
+2024-07-10 02:13:01,622 - Epoch [294/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:13:05,300 - Epoch [294/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:13:08,692 - Epoch [294/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:13:11,214 - Epoch [294/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:13:13,822 - Epoch [294/300] completed. Avg Test Loss: 0.7975, Test Accuracy: 81.80%
+2024-07-10 02:13:13,822 - Starting epoch 295/300
+2024-07-10 02:13:17,210 - Epoch [295/300], Step [10/38], Loss: 0.0001
+2024-07-10 02:13:21,021 - Epoch [295/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:13:25,086 - Epoch [295/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:13:27,421 - Epoch [295/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:13:29,915 - Epoch [295/300] completed. Avg Test Loss: 0.7644, Test Accuracy: 81.60%
+2024-07-10 02:13:29,915 - Starting epoch 296/300
+2024-07-10 02:13:33,236 - Epoch [296/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:13:36,887 - Epoch [296/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:13:40,195 - Epoch [296/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:13:42,981 - Epoch [296/300] completed. Avg Train Loss: 0.0001, Accuracy: 100.00%
+2024-07-10 02:13:45,560 - Epoch [296/300] completed. Avg Test Loss: 0.7424, Test Accuracy: 80.80%
+2024-07-10 02:13:45,560 - Starting epoch 297/300
+2024-07-10 02:13:49,239 - Epoch [297/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:13:53,004 - Epoch [297/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:13:56,358 - Epoch [297/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:13:59,071 - Epoch [297/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:14:01,470 - Epoch [297/300] completed. Avg Test Loss: 0.7188, Test Accuracy: 82.60%
+2024-07-10 02:14:01,470 - Starting epoch 298/300
+2024-07-10 02:14:05,043 - Epoch [298/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:14:08,611 - Epoch [298/300], Step [20/38], Loss: 0.0001
+2024-07-10 02:14:12,439 - Epoch [298/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:14:14,869 - Epoch [298/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:14:17,354 - Epoch [298/300] completed. Avg Test Loss: 0.6953, Test Accuracy: 82.80%
+2024-07-10 02:14:17,354 - Starting epoch 299/300
+2024-07-10 02:14:20,933 - Epoch [299/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:14:24,995 - Epoch [299/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:14:29,057 - Epoch [299/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:14:31,425 - Epoch [299/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:14:33,848 - Epoch [299/300] completed. Avg Test Loss: 0.7076, Test Accuracy: 82.00%
+2024-07-10 02:14:33,848 - Starting epoch 300/300
+2024-07-10 02:14:37,327 - Epoch [300/300], Step [10/38], Loss: 0.0000
+2024-07-10 02:14:40,632 - Epoch [300/300], Step [20/38], Loss: 0.0000
+2024-07-10 02:14:44,649 - Epoch [300/300], Step [30/38], Loss: 0.0000
+2024-07-10 02:14:47,313 - Epoch [300/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
+2024-07-10 02:14:49,736 - Epoch [300/300] completed. Avg Test Loss: 0.7021, Test Accuracy: 81.80%
+2024-07-10 02:14:49,787 - Model saved to second_cnn_model.pth

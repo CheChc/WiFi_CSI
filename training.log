@@ -15076,3 +15076,4 @@
 2024-07-10 02:14:47,313 - Epoch [300/300] completed. Avg Train Loss: 0.0000, Accuracy: 100.00%
 2024-07-10 02:14:49,736 - Epoch [300/300] completed. Avg Test Loss: 0.7021, Test Accuracy: 81.80%
 2024-07-10 02:14:49,787 - Model saved to second_cnn_model.pth
+2024-07-11 13:51:44,786 - Starting epoch 1/300
